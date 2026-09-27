@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="robots" content="noindex,nofollow">
+<title>エリアイベント情報</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New:wght@400;500;700&display=swap">
+<style>
+:root{
+  --bg:#f6f4ef; --surface:#fffdf9; --line:#e2ddd3; --ink:#26221c; --ink-2:#5e5850; --ink-3:#8f887d;
+  --accent:#b8412a; --accent-soft:#f6e3dd; --today:#1f6f5f; --today-soft:#dcefe9; --chip:#efe9df;
+  --font:"Zen Kaku Gothic New","Hiragino Sans","Noto Sans JP",system-ui,sans-serif;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --bg:#191714; --surface:#221f1b; --line:#3a352e; --ink:#f1ece3; --ink-2:#bdb5a8; --ink-3:#8a8276;
+    --accent:#e8735b; --accent-soft:#3d241e; --today:#5fbfa8; --today-soft:#1c3630; --chip:#2e2a24;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#191714; --surface:#221f1b; --line:#3a352e; --ink:#f1ece3; --ink-2:#bdb5a8; --ink-3:#8a8276;
+  --accent:#e8735b; --accent-soft:#3d241e; --today:#5fbfa8; --today-soft:#1c3630; --chip:#2e2a24;
+}
+*{box-sizing:border-box}
+html,body{margin:0;overflow-x:hidden}
+body{background:var(--bg);color:var(--ink);font-family:var(--font);font-size:15px;line-height:1.6;-webkit-font-smoothing:antialiased;padding-top:env(safe-area-inset-top,0px)}
+.wrap{max-width:820px;margin:0 auto;padding-block:16px 60px;padding-inline:16px}
+header{display:flex;align-items:baseline;justify-content:space-between;gap:12px;flex-wrap:wrap}
+h1{font-size:20px;margin:0;font-weight:700;letter-spacing:.02em}
+.gen{font-size:12px;color:var(--ink-3)}
+.stores{display:flex;gap:8px;overflow-x:auto;padding:12px 0 4px;margin:0 -16px;padding-inline:16px;scrollbar-width:none}
+.stores::-webkit-scrollbar{display:none}
+.stores button{flex:0 0 auto;border:1px solid var(--line);background:var(--surface);color:var(--ink-2);padding:8px 14px;border-radius:999px;font:inherit;font-size:14px;cursor:pointer;white-space:nowrap}
+.stores button[aria-selected="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink);font-weight:500}
+.stores button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.area{color:var(--ink-3);font-size:13px;margin:10px 0 0}
+h2{font-size:14px;color:var(--ink-2);font-weight:500;letter-spacing:.08em;margin:22px 0 8px;display:flex;align-items:center;gap:8px}
+h2 small{font-weight:400;color:var(--ink-3);letter-spacing:0}
+.ev{display:grid;grid-template-columns:64px 1fr;gap:12px;background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:12px;margin-bottom:8px;text-decoration:none;color:inherit}
+.ev:hover{border-color:var(--accent)}
+.ev .d{display:flex;flex-direction:column;align-items:center;justify-content:center;border-radius:8px;background:var(--chip);padding:6px 4px;text-align:center;line-height:1.15}
+.ev .d b{font-size:22px;font-weight:700}
+.ev .d span{font-size:11px;color:var(--ink-2)}
+.ev .d .w{font-size:12px}
+.ev .d .w.sat{color:#2a6fbd}.ev .d .w.sun{color:var(--accent)}
+.ev.soon .d{background:var(--today-soft);color:var(--today)}
+.ev.soon .d span{color:var(--today)}
+.ev>div{min-width:0}
+.ev .t{overflow-wrap:anywhere;font-weight:700;font-size:15px;line-height:1.4;text-wrap:balance}
+.ev .m{font-size:12px;color:var(--ink-3);margin-top:4px;display:flex;flex-wrap:wrap;gap:4px 10px}
+.ev .m .range{color:var(--ink-2)}
+.ev .x{overflow-wrap:anywhere;font-size:13px;color:var(--ink-2);margin-top:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.kw{display:inline-block;background:var(--accent-soft);color:var(--accent);border-radius:4px;padding:0 6px;font-size:11px;font-weight:500}
+.news{list-style:none;padding:0;margin:0;background:var(--surface);border:1px solid var(--line);border-radius:12px}
+.news li{padding:10px 12px;border-bottom:1px solid var(--line);overflow-wrap:anywhere}
+.news li:last-child{border-bottom:0}
+.news a{color:inherit;text-decoration:none;font-weight:500;line-height:1.4}
+.news a:hover{color:var(--accent)}
+.news .m{font-size:12px;color:var(--ink-3);margin-top:2px}
+.links{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:8px}
+.links a{display:flex;align-items:center;justify-content:space-between;gap:8px;background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:10px 12px;color:inherit;text-decoration:none;font-size:14px}
+.links a::after{content:"↗";color:var(--ink-3);font-size:12px}
+.links a:hover{border-color:var(--accent)}
+.empty{color:var(--ink-3);font-size:14px;padding:8px 2px}
+.note{font-size:12px;color:var(--ink-3);margin-top:28px;line-height:1.7}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>エリアイベント情報</h1>
+    <div class="gen" id="gen"></div>
+  </header>
+  <div class="stores" role="tablist" id="tabs"></div>
+  <div id="main"></div>
+  <p class="note">出典: 各エリアの「みんなの経済新聞」RSS。開催日は記事本文の「◯月◯日」を自動で拾っているため、締切日や過去日が混ざることがあります。詳細はリンク先で確認してください。毎朝6時に自動更新。</p>
+</div>
+<script>
+const DATA = /*__DATA__*/null;
+const WD = ['日','月','火','水','木','金','土'];
+const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const today = new Date(DATA.today + 'T00:00:00');
+let cur = DATA.stores[0].id;
+try { const h = location.hash.slice(1); const s = localStorage.getItem('area.store'); if (DATA.stores.some(x=>x.id===h)) cur = h; else if (DATA.stores.some(x=>x.id===s)) cur = s; } catch(e){}
+
+function fmt(d){ const x = new Date(d+'T00:00:00'); return `${x.getMonth()+1}/${x.getDate()}(${WD[x.getDay()]})`; }
+function daysFrom(d){ return Math.round((new Date(d+'T00:00:00') - today)/86400000); }
+
+function renderTabs(){
+  const t = document.getElementById('tabs'); t.innerHTML = '';
+  DATA.stores.forEach(s => {
+    const b = document.createElement('button'); b.role='tab'; b.textContent = s.name; b.setAttribute('aria-selected', s.id===cur);
+    b.onclick = () => { cur = s.id; try{localStorage.setItem('area.store', s.id)}catch(e){}; history.replaceState(null,'','#'+s.id); render(); };
+    t.appendChild(b);
+  });
+}
+
+function evCard(e){
+  const s = new Date(e.start+'T00:00:00'), n = daysFrom(e.start), soon = n <= 7 && daysFrom(e.end) >= 0;
+  const wcls = s.getDay()===6?'sat':s.getDay()===0?'sun':'';
+  const range = e.start!==e.end ? `${fmt(e.start)} 〜 ${fmt(e.end)}` : '';
+  const when = n===0?'今日':n===1?'明日':n>1?`${n}日後`:(daysFrom(e.end)>=0?'開催中':'');
+  return `<a class="ev ${soon?'soon':''}" href="${esc(e.link)}" target="_blank" rel="noopener">
+    <div class="d"><span>${s.getMonth()+1}月</span><b>${s.getDate()}</b><span class="w ${wcls}">${WD[s.getDay()]}</span></div>
+    <div><div class="t">${esc(e.title)}</div>
+      <div class="m">${when?`<span>${when}</span>`:''}${range?`<span class="range">${range}</span>`:''}<span>${esc(e.source)}</span>${e.keywords.slice(0,2).map(k=>`<span class="kw">${esc(k)}</span>`).join('')}</div>
+      <div class="x">${esc(e.desc)}</div></div></a>`;
+}
+
+function render(){
+  renderTabs();
+  const st = DATA.stores.find(s => s.id===cur);
+  let h = `<p class="area">${esc(st.area)}</p>`;
+  h += `<h2>これからのイベント <small>${st.upcoming.length}件・90日先まで</small></h2>`;
+  const stale = st.latest_pub && daysFrom(st.latest_pub) < -90;
+  if (st.feeds.length===0) h += `<div class="empty">このエリアは自動取得できるニュースソースが未設定です。下のリンクから確認してください。</div>`;
+  else if (stale) h += `<div class="empty">${esc(st.feeds.map(f=>f.name).join('・'))}は更新が止まっています(最終記事 ${st.latest_pub})。下のリンクから確認してください。</div>`;
+  else if (!st.upcoming.length) h += `<div class="empty">開催日つきの記事は見つかりませんでした。</div>`;
+  else h += st.upcoming.map(evCard).join('');
+  if (st.recent.length){
+    h += `<h2>最新の地域ニュース <small>${st.feeds.map(f=>esc(f.name)).join('・')}</small></h2><ul class="news">`;
+    h += st.recent.map(a => `<li><a href="${esc(a.link)}" target="_blank" rel="noopener">${esc(a.title)}</a><div class="m">${a.pub.replace(/^\d{4}-0?(\d+)-0?(\d+)$/,'$1/$2')} ・ ${esc(a.source)}</div></li>`).join('');
+    h += '</ul>';
+  }
+  h += `<h2>参考リンク</h2><div class="links">`;
+  st.feeds.forEach(f => h += `<a href="${esc(f.top)}" target="_blank" rel="noopener">${esc(f.name)}</a>`);
+  st.links.forEach(l => h += `<a href="${esc(l.url)}" target="_blank" rel="noopener">${esc(l.name)}</a>`);
+  h += '</div>';
+  document.getElementById('main').innerHTML = h;
+  document.getElementById('gen').textContent = '更新 ' + DATA.generated;
+}
+render();
+</script>
+</body>
+</html>

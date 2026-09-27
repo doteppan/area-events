@@ -1,0 +1,93 @@
+{
+  "stores": [
+    {"id": "matsudo", "name": "松戸東口", "area": "千葉県松戸市",
+     "feeds": [{"name": "松戸経済新聞", "rss": "https://matsudo.keizai.biz/rss.xml", "top": "https://matsudo.keizai.biz/"}],
+     "links": [
+       {"name": "松戸市 イベント情報", "url": "https://www.city.matsudo.chiba.jp/event/index.html"},
+       {"name": "松戸市観光協会", "url": "https://www.matsudo-kankou.jp/"},
+       {"name": "ウォーカープラス 千葉のイベント", "url": "https://www.walkerplus.com/event_list/ar0312/"},
+       {"name": "天気(松戸市)", "url": "https://tenki.jp/forecast/3/15/4510/12207/"}
+     ]},
+    {"id": "mukogaoka", "name": "向ヶ丘遊園", "area": "神奈川県川崎市多摩区",
+     "feeds": [{"name": "川崎経済新聞", "rss": "https://kawasaki.keizai.biz/rss.xml", "top": "https://kawasaki.keizai.biz/"}],
+     "links": [
+       {"name": "川崎市多摩区", "url": "https://www.city.kawasaki.jp/tama/"},
+       {"name": "ウォーカープラス 神奈川のイベント", "url": "https://www.walkerplus.com/event_list/ar0314/"},
+       {"name": "天気(川崎市多摩区)", "url": "https://tenki.jp/forecast/3/17/4610/14135/"}
+     ]},
+    {"id": "noborito", "name": "登戸", "area": "神奈川県川崎市多摩区",
+     "feeds": [{"name": "川崎経済新聞", "rss": "https://kawasaki.keizai.biz/rss.xml", "top": "https://kawasaki.keizai.biz/"}],
+     "links": [
+       {"name": "川崎市多摩区", "url": "https://www.city.kawasaki.jp/tama/"},
+       {"name": "ウォーカープラス 神奈川のイベント", "url": "https://www.walkerplus.com/event_list/ar0314/"},
+       {"name": "天気(川崎市多摩区)", "url": "https://tenki.jp/forecast/3/17/4610/14135/"}
+     ]},
+    {"id": "namba", "name": "なんば北心斎橋", "area": "大阪府大阪市中央区",
+     "feeds": [{"name": "なんば経済新聞", "rss": "https://namba.keizai.biz/rss.xml", "top": "https://namba.keizai.biz/"}],
+     "links": [
+       {"name": "大阪市中央区", "url": "https://www.city.osaka.lg.jp/chuo/"},
+       {"name": "ウォーカープラス 大阪のイベント", "url": "https://www.walkerplus.com/event_list/ar0727/"},
+       {"name": "天気(大阪市中央区)", "url": "https://tenki.jp/forecast/6/30/6200/27128/"}
+     ]},
+    {"id": "maebashi", "name": "前橋", "area": "群馬県前橋市",
+     "feeds": [{"name": "高崎前橋経済新聞", "rss": "https://takasaki.keizai.biz/rss.xml", "top": "https://takasaki.keizai.biz/"}],
+     "links": [
+       {"name": "前橋市", "url": "https://www.city.maebashi.gunma.jp/"},
+       {"name": "ウォーカープラス 群馬のイベント", "url": "https://www.walkerplus.com/event_list/ar0310/"},
+       {"name": "天気(前橋市)", "url": "https://tenki.jp/forecast/3/13/4210/10201/"}
+     ]},
+    {"id": "ishiyama", "name": "石山駅前", "area": "滋賀県大津市",
+     "feeds": [],
+     "links": [
+       {"name": "大津市", "url": "https://www.city.otsu.lg.jp/"},
+       {"name": "びわ湖大津観光協会", "url": "https://otsu.or.jp/"},
+       {"name": "ウォーカープラス 滋賀のイベント", "url": "https://www.walkerplus.com/event_list/ar0725/"},
+       {"name": "天気(大津市)", "url": "https://tenki.jp/forecast/6/28/6010/25201/"}
+     ]},
+    {"id": "hiyoshi", "name": "日吉駅前", "area": "神奈川県横浜市港北区",
+     "feeds": [{"name": "港北経済新聞", "rss": "https://kohoku.keizai.biz/rss.xml", "top": "https://kohoku.keizai.biz/"}],
+     "links": [
+       {"name": "横浜市港北区", "url": "https://www.city.yokohama.lg.jp/kohoku/"},
+       {"name": "ウォーカープラス 神奈川のイベント", "url": "https://www.walkerplus.com/event_list/ar0314/"},
+       {"name": "天気(横浜市港北区)", "url": "https://tenki.jp/forecast/3/17/4610/14109/"}
+     ]},
+    {"id": "monnaka", "name": "門前仲町", "area": "東京都江東区",
+     "feeds": [{"name": "江東経済新聞(旧深川経済新聞)", "rss": "https://koto.keizai.biz/rss.xml", "top": "https://koto.keizai.biz/"}],
+     "links": [
+       {"name": "江東区", "url": "https://www.city.koto.lg.jp/"},
+       {"name": "ウォーカープラス 東京のイベント", "url": "https://www.walkerplus.com/event_list/ar0313/"},
+       {"name": "天気(江東区)", "url": "https://tenki.jp/forecast/3/16/4410/13108/"}
+     ]},
+    {"id": "kiyamachi", "name": "京都木屋町", "area": "京都府京都市中京区",
+     "feeds": [{"name": "烏丸経済新聞", "rss": "https://karasuma.keizai.biz/rss.xml", "top": "https://karasuma.keizai.biz/"}],
+     "links": [
+       {"name": "京都市 イベント情報", "url": "https://www.city.kyoto.lg.jp/menu2/category/29-1-0-0-0-0-0-0-0-0.html"},
+       {"name": "ウォーカープラス 京都のイベント", "url": "https://www.walkerplus.com/event_list/ar0726/"},
+       {"name": "天気(京都市中京区)", "url": "https://tenki.jp/forecast/6/29/6110/26104/"}
+     ]},
+    {"id": "tsukishima", "name": "月島本店", "area": "東京都中央区",
+     "feeds": [{"name": "銀座経済新聞", "rss": "https://ginza.keizai.biz/rss.xml", "top": "https://ginza.keizai.biz/"},
+               {"name": "日本橋経済新聞", "rss": "https://nihombashi.keizai.biz/rss.xml", "top": "https://nihombashi.keizai.biz/"}],
+     "links": [
+       {"name": "中央区 イベント情報", "url": "https://www.city.chuo.lg.jp/event/"},
+       {"name": "ウォーカープラス 東京のイベント", "url": "https://www.walkerplus.com/event_list/ar0313/"},
+       {"name": "天気(中央区)", "url": "https://tenki.jp/forecast/3/16/4410/13102/"}
+     ]},
+    {"id": "kariya", "name": "刈谷駅前", "area": "愛知県刈谷市",
+     "feeds": [{"name": "豊田経済新聞", "rss": "https://toyota.keizai.biz/rss.xml", "top": "https://toyota.keizai.biz/"}],
+     "links": [
+       {"name": "刈谷市 イベント情報", "url": "https://www.city.kariya.lg.jp/event/"},
+       {"name": "ウォーカープラス 愛知のイベント", "url": "https://www.walkerplus.com/event_list/ar0623/"},
+       {"name": "天気(刈谷市)", "url": "https://tenki.jp/forecast/5/26/5110/23210/"}
+     ]},
+    {"id": "sapporo", "name": "札幌すすきの", "area": "北海道札幌市中央区",
+     "feeds": [{"name": "札幌経済新聞", "rss": "https://sapporo.keizai.biz/rss.xml", "top": "https://sapporo.keizai.biz/"}],
+     "links": [
+       {"name": "札幌市", "url": "https://www.city.sapporo.jp/"},
+       {"name": "ようこそさっぽろ(観光公式)", "url": "https://www.sapporo.travel/"},
+       {"name": "ウォーカープラス 北海道のイベント", "url": "https://www.walkerplus.com/event_list/ar0101/"},
+       {"name": "天気(札幌市中央区)", "url": "https://tenki.jp/forecast/1/2/1400/1101/"}
+     ]}
+  ],
+  "event_keywords": ["イベント", "フェス", "祭", "まつり", "花火", "開催", "マラソン", "ライブ", "コンサート", "大会", "パレード", "マルシェ", "縁日", "盆踊り", "イルミネーション", "セール", "オープン", "ハロウィン", "クリスマス"]
+}
