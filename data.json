@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-28 01:59",
+ "generated": "2026-09-28 02:01",
  "today": "2026-09-28",
  "stores": [
   {
@@ -1501,7 +1501,7 @@
      "desc": "",
      "pub": "2026-09-23",
      "img": "",
-     "source": "mebuku.city",
+     "source": "前橋新聞-mebuku",
      "dates": [],
      "keywords": [
       "マルシェ"
@@ -2953,7 +2953,7 @@
      "desc": "",
      "pub": "2026-09-25",
      "img": "",
-     "source": "アットエス",
+     "source": "at-s.com",
      "dates": [],
      "keywords": [
       "祭"
@@ -2994,7 +2994,7 @@
      "desc": "",
      "pub": "2026-09-24",
      "img": "",
-     "source": "アットエス",
+     "source": "at-s.com",
      "dates": [],
      "keywords": []
     },
@@ -3037,7 +3037,7 @@
      "desc": "",
      "pub": "2026-09-24",
      "img": "",
-     "source": "アットエス",
+     "source": "at-s.com",
      "dates": [],
      "keywords": [
       "フェス"
@@ -3369,7 +3369,7 @@
      "desc": "",
      "pub": "2026-09-01",
      "img": "",
-     "source": "中日新聞Web",
+     "source": "chunichi.co.jp",
      "dates": [],
      "keywords": [
       "フェス"
