@@ -74,7 +74,7 @@ h2 small{font-weight:400;color:var(--ink-3);letter-spacing:0}
   </header>
   <div class="stores" role="tablist" id="tabs"></div>
   <div id="main"></div>
-  <p class="note">出典: 各エリアの「みんなの経済新聞」RSS。開催日は記事本文の「◯月◯日」を自動で拾っているため、締切日や過去日が混ざることがあります。詳細はリンク先で確認してください。毎朝6時に自動更新。</p>
+  <p class="note">出典: 各エリアの「みんなの経済新聞」とGoogleニュース(地域名+イベントで検索、直近60日)。開催日は記事本文の「◯月◯日」を自動で拾っているため、締切日や過去日が混ざることがあります。詳細はリンク先で確認してください。毎朝6時に自動更新。</p>
 </div>
 <script>
 const DATA = /*__DATA__*/null;
@@ -101,7 +101,7 @@ function evCard(e){
   const wcls = s.getDay()===6?'sat':s.getDay()===0?'sun':'';
   const range = e.start!==e.end ? `${fmt(e.start)} 〜 ${fmt(e.end)}` : '';
   const when = n===0?'今日':n===1?'明日':n>1?`${n}日後`:(daysFrom(e.end)>=0?'開催中':'');
-  return `<a class="ev ${soon?'soon':''}" href="${esc(e.link)}" target="_blank" rel="noopener">
+  return `<a class="ev ${soon?'soon':''}" href="${esc(e.link)}">
     <div class="d"><span>${s.getMonth()+1}月</span><b>${s.getDate()}</b><span class="w ${wcls}">${WD[s.getDay()]}</span></div>
     <div><div class="t">${esc(e.title)}</div>
       <div class="m">${when?`<span>${when}</span>`:''}${range?`<span class="range">${range}</span>`:''}<span>${esc(e.source)}</span>${e.keywords.slice(0,2).map(k=>`<span class="kw">${esc(k)}</span>`).join('')}</div>
@@ -120,12 +120,12 @@ function render(){
   else h += st.upcoming.map(evCard).join('');
   if (st.recent.length){
     h += `<h2>最新の地域ニュース <small>${st.feeds.map(f=>esc(f.name)).join('・')}</small></h2><ul class="news">`;
-    h += st.recent.map(a => `<li><a href="${esc(a.link)}" target="_blank" rel="noopener">${esc(a.title)}</a><div class="m">${a.pub.replace(/^\d{4}-0?(\d+)-0?(\d+)$/,'$1/$2')} ・ ${esc(a.source)}</div></li>`).join('');
+    h += st.recent.map(a => `<li><a href="${esc(a.link)}">${esc(a.title)}</a><div class="m">${a.pub.replace(/^\d{4}-0?(\d+)-0?(\d+)$/,'$1/$2')} ・ ${esc(a.source)}</div></li>`).join('');
     h += '</ul>';
   }
   h += `<h2>参考リンク</h2><div class="links">`;
-  st.feeds.forEach(f => h += `<a href="${esc(f.top)}" target="_blank" rel="noopener">${esc(f.name)}</a>`);
-  st.links.forEach(l => h += `<a href="${esc(l.url)}" target="_blank" rel="noopener">${esc(l.name)}</a>`);
+  st.feeds.forEach(f => h += `<a href="${esc(f.top)}">${esc(f.name)}</a>`);
+  st.links.forEach(l => h += `<a href="${esc(l.url)}">${esc(l.name)}</a>`);
   h += '</div>';
   document.getElementById('main').innerHTML = h;
   document.getElementById('gen').textContent = '更新 ' + DATA.generated;

@@ -14,12 +14,13 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 SRC = json.load(open(os.path.join(HERE, 'sources.json'), encoding='utf-8'))
 TODAY = date.today()
 UPCOMING_DAYS = 90      # 何日先まで「これから」に出すか
-RECENT_ARTICLES = 12    # 最新記事の表示件数
+RECENT_ARTICLES = 15    # 最新記事の表示件数
 UA = 'Mozilla/5.0 (compatible; doteppan-area-events/1.0)'
 
 DATE_RE = re.compile(r'(\d{1,2})月(\d{1,2})日')
 RANGE_RE = re.compile(r'(\d{1,2})月(\d{1,2})日\s*[〜~～ー－-]\s*(?:(\d{1,2})月)?(\d{1,2})日')
 PAIR_RE = re.compile(r'(\d{1,2})月(\d{1,2})日[・、](\d{1,2})日')   # 「9月26日・27日」形式
+SLASH_RE = re.compile(r'(?<![\d/])(\d{1,2})/(\d{1,2})(?:\s*[（(]?[月火水木金土日祝][）)]?)?(?:\s*[〜~～-]\s*(?:(\d{1,2})/)?(\d{1,2})(?![\d/]))?(?![\d/])')   # 「9/26(土)」「9/26〜27」形式
 
 
 def fetch(url):
@@ -70,6 +71,21 @@ def extract_dates(text, pub):
             out.append((a, b) if b >= a else (a, a))
             used.add((mo, d1))
             used.add((mo, d2))
+    for m in SLASH_RE.finditer(text):
+        mo, d1 = int(m.group(1)), int(m.group(2))
+        if not (1 <= mo <= 12 and 1 <= d1 <= 31) or (mo, d1) in used:
+            continue
+        a = guess_year(mo, d1, pub)
+        if not a:
+            continue
+        b = a
+        if m.group(4):
+            m2 = int(m.group(3)) if m.group(3) else mo
+            bb = guess_year(m2, int(m.group(4)), pub)
+            if bb and bb >= a:
+                b = bb
+        out.append((a, b))
+        used.add((mo, d1))
     for m in DATE_RE.finditer(text):
         mo, da = int(m.group(1)), int(m.group(2))
         if (mo, da) in used:
@@ -92,7 +108,7 @@ def parse_feed(feed):
     items = []
     for it in root.iter('item'):
         title = (it.findtext('title') or '').strip()
-        link = (it.findtext('link') or '').strip()
+        link = (it.findtext('link') or '').strip().replace('http://', 'https://', 1)
         desc = re.sub(r'<[^>]+>', '', it.findtext('description') or '').replace('#' + feed['name'], '').strip()
         desc = re.sub(r'\s*#\S+$', '', desc)
         pd = it.findtext('pubDate')
@@ -111,10 +127,59 @@ def parse_feed(feed):
     return items
 
 
+GNEWS = 'https://news.google.com/rss/search?q={q}&hl=ja&gl=JP&ceid=JP:ja'
+NEWS_MAX_AGE = 60   # 何日前までの記事を対象にするか(Googleニュースは古い記事も混ざる)
+
+
+def parse_gnews(query):
+    """Googleニュースの地域検索RSS。タイトル末尾の「 - 媒体名」を出典にする"""
+    import urllib.parse
+    raw = fetch(GNEWS.format(q=urllib.parse.quote(query)))
+    if not raw:
+        return []
+    try:
+        root = ET.fromstring(raw)
+    except ET.ParseError:
+        return []
+    items = []
+    for it in root.iter('item'):
+        title = html.unescape((it.findtext('title') or '').strip())
+        src = it.find('source')
+        source = (src.text if src is not None else '').strip()
+        if ' - ' in title and title.rsplit(' - ', 1)[1].strip() == source:
+            title = title.rsplit(' - ', 1)[0].strip()
+        link = (it.findtext('link') or '').strip()
+        desc = html.unescape(re.sub(r'<[^>]+>', ' ', it.findtext('description') or ''))
+        desc = re.sub(r'\s+', ' ', desc).strip()
+        if desc.endswith(source):
+            desc = desc[:-len(source)].strip()
+        pd = it.findtext('pubDate')
+        try:
+            pub = parsedate_to_datetime(pd) if pd else datetime.now()
+        except Exception:
+            pub = datetime.now()
+        if (datetime.now(pub.tzinfo) - pub).days > NEWS_MAX_AGE:
+            continue
+        text = title + ' ' + desc
+        items.append({'title': title, 'link': link, 'desc': desc if desc != title else '', 'pub': pub.strftime('%Y-%m-%d'),
+                      'img': '', 'source': source or 'Googleニュース',
+                      'dates': [(a.isoformat(), b.isoformat()) for a, b in extract_dates(text, pub)],
+                      'keywords': [k for k in SRC['event_keywords'] if k in text]})
+    return items
+
+
 def build_store(store):
     items = []
     for f in store['feeds']:
         items += parse_feed(f)
+    seen_titles = set()
+    for q in store.get('news_queries', []):
+        for it in parse_gnews(q):
+            key = re.sub(r'\s', '', it['title'])[:30]
+            if key in seen_titles:
+                continue
+            seen_titles.add(key)
+            items.append(it)
     # 最新記事(公開日降順・重複リンク除去)
     seen = set()
     recent = []
@@ -126,10 +191,15 @@ def build_store(store):
     # これからのイベント: 終了日が今日以降〜90日以内の日付を持つ記事(イベント語を含むもの優先)
     upcoming = []
     limit = TODAY + timedelta(days=UPCOMING_DAYS)
+    seen_up = set()
     for it in recent:
+        tkey = re.sub(r'[\s「」『』【】()（）・、。]', '', it['title'])[:18]
+        if tkey in seen_up:
+            continue
         for s, e in it['dates']:
             sd, ed = date.fromisoformat(s), date.fromisoformat(e)
             if ed >= TODAY and sd <= limit:
+                seen_up.add(tkey)
                 upcoming.append({'start': s, 'end': e, 'title': it['title'], 'link': it['link'],
                                  'desc': it['desc'], 'source': it['source'], 'img': it['img'],
                                  'keywords': it['keywords']})
