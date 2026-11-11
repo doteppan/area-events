@@ -370,6 +370,44 @@
     "すすきの OR 大通 札幌 イベント",
     "札幌 祭り OR フェス OR 花火"
    ]
+  },
+  {
+   "id": "teradacho",
+   "name": "大阪寺田町",
+   "area": "大阪府大阪市天王寺区",
+   "feeds": [
+    {
+     "name": "あべの経済新聞",
+     "rss": "https://abeno.keizai.biz/rss.xml",
+     "top": "https://abeno.keizai.biz/"
+    }
+   ],
+   "links": [
+    {
+     "name": "大阪市天王寺区",
+     "url": "https://www.city.osaka.lg.jp/tennoji/"
+    },
+    {
+     "name": "大阪市生野区",
+     "url": "https://www.city.osaka.lg.jp/ikuno/"
+    },
+    {
+     "name": "OSAKA-INFO(大阪観光局)",
+     "url": "https://osaka-info.jp/"
+    },
+    {
+     "name": "ウォーカープラス 大阪のイベント",
+     "url": "https://www.walkerplus.com/event_list/ar0727/"
+    },
+    {
+     "name": "天気(大阪市天王寺区)",
+     "url": "https://tenki.jp/forecast/6/30/6200/27109/"
+    }
+   ],
+   "news_queries": [
+    "寺田町 OR 天王寺 OR あべの イベント",
+    "大阪市天王寺区 OR 生野区 祭り OR フェス"
+   ]
   }
  ],
  "event_keywords": [
