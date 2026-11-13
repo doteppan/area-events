@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-12 11:04",
- "today": "2026-11-12",
+ "generated": "2026-11-13 10:35",
+ "today": "2026-11-13",
  "stores": [
   {
    "id": "matsudo",
@@ -47,14 +47,18 @@
      ]
     },
     {
-     "start": "2026-11-09",
-     "end": "2026-11-18",
-     "title": "11/9（月）〜18（水）アトレ松戸3階にて大阪・鶴橋の「彩華キムチ」が期間限定で初出店！おすすめは甘辛い牛カルビキンパ",
-     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoRl9zaV8wMG82SDYzV3FVeHF3Z3Q3TTNXbTdxeGI2QmExci1nN0hzLWVwN2dQbXFtRXdFd2JzcmxaM0pNNWFDTk5oUEFUbnM?oc=5",
+     "start": "2026-11-14",
+     "end": "2026-11-14",
+     "title": "11/14（土）15（日）森のホール21にて「ザ ブラス クルーズ in 松戸森のホール21 ～吹奏楽の祭典～」が開催！大ホールで2日間の吹奏楽コンサート",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1SZUhsYzRBdjlUUXZmd01SQWJZRHR4RXUtX1ZlRURjNkJ0bkJ2Sm1hSEx1TzcyZ0tDc3FOU0pBSWpkbG9TWG9xRjlnR3dyNk0?oc=5",
      "desc": "",
      "source": "松戸つうしん",
      "img": "",
-     "keywords": []
+     "keywords": [
+      "祭",
+      "開催",
+      "コンサート"
+     ]
     },
     {
      "start": "2026-11-14",
@@ -68,18 +72,6 @@
       "イベント",
       "開催",
       "ライブ"
-     ]
-    },
-    {
-     "start": "2026-11-14",
-     "end": "2026-11-14",
-     "title": "11/14（土）アトレ松戸にて「スノードームワークショップ」が開催！サンタとトナカイが夜空へ飛び立つ場面を500円で手作り",
-     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Oa0xqQmdCdmZ0U1RmZ2FlbXpEX2wzeGxsRzJINF8tdHRUYTJjVzVrU2otMkM4T21kc29Wdk5KZVpfaDc2MzB5VklYMXNvMnM?oc=5",
-     "desc": "",
-     "source": "松戸つうしん",
-     "img": "",
-     "keywords": [
-      "開催"
      ]
     },
     {
@@ -179,6 +171,35 @@
      ]
     },
     {
+     "title": "「地雷グリコ」キャスト陣が登場",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5NERWMXNxLURvMjRfX3c2akhMQ19ma0tITExUdmhIYjlhSXpwdWQzd2VOZ1M3ZXhNUmhXWjVQdUIxUGpRbE5FSzdpazR1cnZGalZTNg?oc=5",
+     "desc": "",
+     "pub": "2026-11-12",
+     "img": "",
+     "source": "松戸経済新聞",
+     "dates": [],
+     "keywords": []
+    },
+    {
+     "title": "11/14（土）15（日）森のホール21にて「ザ ブラス クルーズ in 松戸森のホール21 ～吹奏楽の祭典～」が開催！大ホールで2日間の吹奏楽コンサート",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1SZUhsYzRBdjlUUXZmd01SQWJZRHR4RXUtX1ZlRURjNkJ0bkJ2Sm1hSEx1TzcyZ0tDc3FOU0pBSWpkbG9TWG9xRjlnR3dyNk0?oc=5",
+     "desc": "",
+     "pub": "2026-11-12",
+     "img": "",
+     "source": "松戸つうしん",
+     "dates": [
+      [
+       "2026-11-14",
+       "2026-11-14"
+      ]
+     ],
+     "keywords": [
+      "祭",
+      "開催",
+      "コンサート"
+     ]
+    },
+    {
      "title": "松戸市が「食育まつり」　野菜クイズや塩分測定、食育講演会も",
      "link": "https://matsudo.keizai.biz/headline/1249/",
      "desc": "「松戸食育まつり2026秋」が11月29日、中央保健福祉センター（松戸市竹ケ花）で開かれる。",
@@ -208,25 +229,6 @@
      ]
     },
     {
-     "title": "11/6（金）〜12/25（金）テラスモール松戸にてクリスマスイベント「Share The Sparkle」が開催！高さ4mのツリーに、溶けないスケートリンクや地元団体のステージも",
-     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vX0dwbkRPWXZobm1RSVU3ZW81X3dETjVVTEQ1VUNQQURnbFJadDlUMEtyS1BXMmcwZ0d3aEZXSUtfemY1ODNSYjVqUzFrUHc?oc=5",
-     "desc": "",
-     "pub": "2026-11-11",
-     "img": "",
-     "source": "松戸つうしん",
-     "dates": [
-      [
-       "2026-11-06",
-       "2026-12-25"
-      ]
-     ],
-     "keywords": [
-      "イベント",
-      "開催",
-      "クリスマス"
-     ]
-    },
-    {
      "title": "11/14（土）テラスモール松戸にて「OCTPATH」3rd album『5mile』リリース記念イベントが開催！ミニライブはフリー観覧、お見送り会とトーク会も",
      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1PT1BrSTVUZVFoYWdGd0M4OWVpRmpyLThYVnpORFNmUTR4dUtOblVqU2Q5SFA1YkNCMW1LSGhQT1BjWWlKeVdXSUdacm9wX3c?oc=5",
      "desc": "",
@@ -246,19 +248,23 @@
      ]
     },
     {
-     "title": "11/9（月）〜18（水）アトレ松戸3階にて大阪・鶴橋の「彩華キムチ」が期間限定で初出店！おすすめは甘辛い牛カルビキンパ",
-     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoRl9zaV8wMG82SDYzV3FVeHF3Z3Q3TTNXbTdxeGI2QmExci1nN0hzLWVwN2dQbXFtRXdFd2JzcmxaM0pNNWFDTk5oUEFUbnM?oc=5",
+     "title": "11/6（金）〜12/25（金）テラスモール松戸にてクリスマスイベント「Share The Sparkle」が開催！高さ4mのツリーに、溶けないスケートリンクや地元団体のステージも",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vX0dwbkRPWXZobm1RSVU3ZW81X3dETjVVTEQ1VUNQQURnbFJadDlUMEtyS1BXMmcwZ0d3aEZXSUtfemY1ODNSYjVqUzFrUHc?oc=5",
      "desc": "",
      "pub": "2026-11-11",
      "img": "",
      "source": "松戸つうしん",
      "dates": [
       [
-       "2026-11-09",
-       "2026-11-18"
+       "2026-11-06",
+       "2026-12-25"
       ]
      ],
-     "keywords": []
+     "keywords": [
+      "イベント",
+      "開催",
+      "クリスマス"
+     ]
     },
     {
      "title": "松戸で「健康ハッピーフェスタ」　ズンバや姿勢分析、健康相談も",
@@ -273,35 +279,6 @@
        "2026-11-22"
       ]
      ],
-     "keywords": [
-      "フェス"
-     ]
-    },
-    {
-     "title": "11/14（土）アトレ松戸にて「スノードームワークショップ」が開催！サンタとトナカイが夜空へ飛び立つ場面を500円で手作り",
-     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Oa0xqQmdCdmZ0U1RmZ2FlbXpEX2wzeGxsRzJINF8tdHRUYTJjVzVrU2otMkM4T21kc29Wdk5KZVpfaDc2MzB5VklYMXNvMnM?oc=5",
-     "desc": "",
-     "pub": "2026-11-09",
-     "img": "",
-     "source": "松戸つうしん",
-     "dates": [
-      [
-       "2026-11-14",
-       "2026-11-14"
-      ]
-     ],
-     "keywords": [
-      "開催"
-     ]
-    },
-    {
-     "title": "松戸で「健康ハッピーフェスタ」 ズンバや姿勢分析、健康相談も",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sbnRibW0wVDNoa1hCRDdjWjdDQ1NZN3A3MzdjZUF6SDU2NWdQdk45YllkTkJZdDAzeFRLNWlyMjBmMFJabHlvWUFSeTRrX2NEMHQ0?oc=5",
-     "desc": "",
-     "pub": "2026-11-09",
-     "img": "",
-     "source": "松戸経済新聞",
-     "dates": [],
      "keywords": [
       "フェス"
      ]
@@ -338,25 +315,6 @@
      ],
      "keywords": [
       "フェス"
-     ]
-    },
-    {
-     "title": "【千葉のイベント】今週末(10月17日・18日)に行きたい！「松戸神社神幸祭」「2026八千代どーんと祭」など千葉県のお祭り＆フェス",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03ZzlHRi1vaXBVeDhFNW9wWjFJMWRoWkxpX1dNWXBweVVXaUMtTnZtYVJ2TzdXWXF0Wjh1dnFHaEpCMW9QWlJPb3B3WVhPd1VqSFRPSkRn0gFbQVVfeXFMTWtOb1NtQXpZR1E1dmJvUUpvblE1XzhoMkZEMW5rT1FFajI0cV9nRWtSU2dOSXlhZmVTSi04VGc3QjN2Z3lZUkpjbWpPWGdSaDRJcmlDb0UwQkF5bw?oc=5",
-     "desc": "",
-     "pub": "2026-10-31",
-     "img": "",
-     "source": "ウォーカープラス",
-     "dates": [
-      [
-       "2026-10-17",
-       "2026-10-18"
-      ]
-     ],
-     "keywords": [
-      "イベント",
-      "フェス",
-      "祭"
      ]
     },
     {
@@ -410,10 +368,37 @@
      "keywords": [
       "フェス"
      ]
+    },
+    {
+     "title": "松戸でクラフトビールフェス「総決算」 過去の出店者や地元ゆかりの醸造所",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zaTBrR2FscE1WbTFCUndDREFOdWhIWXREb2hSZGpIc1hFMldaSjIzdnFMc1pfN2g1d1p0ZGdoMERCbWYybHJEQWxjYmtPZ3dCazQ0?oc=5",
+     "desc": "",
+     "pub": "2026-10-23",
+     "img": "",
+     "source": "松戸経済新聞",
+     "dates": [],
+     "keywords": [
+      "フェス"
+     ]
+    },
+    {
+     "title": "産総研柏センターが一般公開　液体窒素の実験や実験室見学も",
+     "link": "https://matsudo.keizai.biz/headline/1242/",
+     "desc": "「産総研柏センター一般公開2026」が11月3日、産業技術総合研究所（産総研）柏センター（柏市柏の葉6）で開かれる。",
+     "pub": "2026-10-21",
+     "img": "https://images.keizai.biz/matsudo_keizai/headline/1792549916.jpg",
+     "source": "松戸経済新聞",
+     "dates": [
+      [
+       "2026-11-03",
+       "2026-11-03"
+      ]
+     ],
+     "keywords": []
     }
    ],
    "latest_pub": "2026-11-12",
-   "fetched": 26
+   "fetched": 25
   },
   {
    "id": "mukogaoka",
@@ -444,16 +429,6 @@
     {
      "start": "2026-11-14",
      "end": "2026-11-14",
-     "title": "【川崎市多摩区】もころん登場や子ども駅長制服体験も！11/14は「登戸駅わくわくDAY」へ行こう♪",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16MUluTmpVelE4T2tmcWtvTVlTWUR4YW5tRFBGTWpYSVRfOE8yYW9oenNWTnprVENIbVhYcnBSek1DemxsVVFLZ25mTzFldFZXVjAxajZBODFDd05jbTFOazY3dzZ0S1E?oc=5",
-     "desc": "",
-     "source": "号外NET 川崎市多摩区",
-     "img": "",
-     "keywords": []
-    },
-    {
-     "start": "2026-11-14",
-     "end": "2026-11-14",
      "title": "【川崎市多摩区】生田緑地に約50店舗が集結！11/14・15に「第11回 食の祭典 in 生田緑地」が開催されます！",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tNjFoZDBLNjdMenh6MTlJbFp4bUQ0SEI1b0RUVFE0QXpwZUdNZFM5SFJyNzFybWFmOERXZEFhUVJoMEQtci05ZXpaOHYwUklGTXVEVFdMUDkyekVhcTdvaFpsOVh3dVVuM2F4RQ?oc=5",
      "desc": "",
@@ -461,6 +436,18 @@
      "img": "",
      "keywords": [
       "祭",
+      "開催"
+     ]
+    },
+    {
+     "start": "2026-11-15",
+     "end": "2026-11-15",
+     "title": "【川崎市多摩区】専修大学生企画！川崎市岡本太郎美術館にて「あなたはどの太郎と出会う？ちょこっと太郎診断！」が11/15に開催されます！",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Ld1lkYXZaVzNjcnZlMnN6MzFwWXhNXzNjSGV2WFI5N0NPX2dBekV5dUEyZTNOems0c09DaFVqajdYaWZBbWpiZmRpQjR2Y3dYb1VKOWhjM1hkX3I4MmNCWF9kcUs1ZFU?oc=5",
+     "desc": "",
+     "source": "号外NET 川崎市多摩区",
+     "img": "",
+     "keywords": [
       "開催"
      ]
     },
@@ -476,9 +463,85 @@
       "イベント",
       "開催"
      ]
+    },
+    {
+     "start": "2026-11-22",
+     "end": "2026-11-22",
+     "title": "多彩な乗り物大集合 11月22日 カルッツかわさきなど3会場で",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LclA0eWtEOWcyWGpXN3RPWHVESGJSTGE0SDRrZE4tb0hIckV2UTVTU19lc1htcU51WVF6dEVoYTRWZDdUVDEycUVYZWItWTlYRUsteG44ZFF0NVBiRlphOG1kREY?oc=5",
+     "desc": "",
+     "source": "タウンニュース",
+     "img": "",
+     "keywords": []
     }
    ],
    "recent": [
+    {
+     "title": "【川崎市多摩区】専修大学生企画！川崎市岡本太郎美術館にて「あなたはどの太郎と出会う？ちょこっと太郎診断！」が11/15に開催されます！",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Ld1lkYXZaVzNjcnZlMnN6MzFwWXhNXzNjSGV2WFI5N0NPX2dBekV5dUEyZTNOems0c09DaFVqajdYaWZBbWpiZmRpQjR2Y3dYb1VKOWhjM1hkX3I4MmNCWF9kcUs1ZFU?oc=5",
+     "desc": "",
+     "pub": "2026-11-12",
+     "img": "",
+     "source": "号外NET 川崎市多摩区",
+     "dates": [
+      [
+       "2026-11-15",
+       "2026-11-15"
+      ]
+     ],
+     "keywords": [
+      "開催"
+     ]
+    },
+    {
+     "title": "川崎市バス 自動運転、多摩区で始動 27年度から実証運行",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwQ3Rib0VEUmlnZkpfakFxWVZMbHp6NWd4TC0yTTlhNTBrbDFDbmRDYjd5NDYwWUI0djl4TTFGUm1yZVZkMUZaNHZaMXdSODlTVHI1ampOSlBOcy15dkFNenpqWVQ?oc=5",
+     "desc": "",
+     "pub": "2026-11-12",
+     "img": "",
+     "source": "タウンニュース",
+     "dates": [],
+     "keywords": []
+    },
+    {
+     "title": "神奈川県 水源地域の魅力、大集合 29日（日）、川崎アゼリアで",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzT01mQzhaX0kxTnpub19FRkZqVjRtbmxEc0djS203c1Y2WVBHbEhIcGhmQmZaa0ZEYnpQRG90Q2lFSTBHbU0tWmhFMUR1WFo1S1NwZlNCWHIxWXdLUEtMNDc0SUo?oc=5",
+     "desc": "",
+     "pub": "2026-11-12",
+     "img": "",
+     "source": "タウンニュース",
+     "dates": [],
+     "keywords": []
+    },
+    {
+     "title": "多彩な乗り物大集合 11月22日 カルッツかわさきなど3会場で",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LclA0eWtEOWcyWGpXN3RPWHVESGJSTGE0SDRrZE4tb0hIckV2UTVTU19lc1htcU51WVF6dEVoYTRWZDdUVDEycUVYZWItWTlYRUsteG44ZFF0NVBiRlphOG1kREY?oc=5",
+     "desc": "",
+     "pub": "2026-11-12",
+     "img": "",
+     "source": "タウンニュース",
+     "dates": [
+      [
+       "2026-11-22",
+       "2026-11-22"
+      ],
+      [
+       "2026-11-22",
+       "2026-11-22"
+      ]
+     ],
+     "keywords": []
+    },
+    {
+     "title": "川崎市立向丘中３年の関蓮太郎さんプロ入りを表明 史上最年少で巨人からドラフト育成５位指名を受け",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02b3lfOG1jZWY3TllSeEVKbmtoa3RvWUczQ011bGZPWmd4aDNOQnl1YUlwSTdnVnFMeV9KRDdEV0dsV1d0ZFNvanM4QXFwWkF5WEZOcGhOX3hETDJPZy1MbWNCZEw?oc=5",
+     "desc": "",
+     "pub": "2026-11-12",
+     "img": "",
+     "source": "タウンニュース",
+     "dates": [],
+     "keywords": []
+    },
     {
      "title": "【川崎市多摩区】生田緑地や菅の城跡を巡る「多摩区で城攻め！秋の御城印めぐり」開催中。11/15にイベント会場で御城印が配布されます！",
      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KSXBuUWRzOEdMRkhTczI1R2ZDWUJXY1ZMVEdDNURnd0RQVng2NVN2bzFBUS1jRkVfLUhZV3E1NGx1cjh0Q2Q0dGJlNTZ2aXhRUFctWlZLMXFPSXBDVTVTMlF1Vi1IVXozRkE?oc=5",
@@ -496,40 +559,6 @@
       "イベント",
       "開催"
      ]
-    },
-    {
-     "title": "【川崎市多摩区】もころん登場や子ども駅長制服体験も！11/14は「登戸駅わくわくDAY」へ行こう♪",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16MUluTmpVelE4T2tmcWtvTVlTWUR4YW5tRFBGTWpYSVRfOE8yYW9oenNWTnprVENIbVhYcnBSek1DemxsVVFLZ25mTzFldFZXVjAxajZBODFDd05jbTFOazY3dzZ0S1E?oc=5",
-     "desc": "",
-     "pub": "2026-11-10",
-     "img": "",
-     "source": "号外NET 川崎市多摩区",
-     "dates": [
-      [
-       "2026-11-14",
-       "2026-11-14"
-      ]
-     ],
-     "keywords": []
-    },
-    {
-     "title": "熟成キット「ねかせハイ」、コンビニエンスストアで11月6日より販売開始",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VTzQwT2piTXhaOWlQamZBdmlCZF9fWF8xX0JTQ2s0ZTFXei1zUzlDend5UWxlVWp3Nl9BbDZLbEJybm9XU1BRaFZjaWlDd0k3NjVWNVBMeUpmaVM2cmZZYTZnV3FGU0dHMlE?oc=5",
-     "desc": "",
-     "pub": "2026-11-10",
-     "img": "",
-     "source": "PR TIMES",
-     "dates": [
-      [
-       "2026-11-06",
-       "2026-11-06"
-      ],
-      [
-       "2026-11-06",
-       "2026-11-06"
-      ]
-     ],
-     "keywords": []
     },
     {
      "title": "【川崎市多摩区】生田緑地に約50店舗が集結！11/14・15に「第11回 食の祭典 in 生田緑地」が開催されます！",
@@ -553,7 +582,7 @@
      "title": "【川崎市多摩区】登戸2号線が歩行者天国に！11/8は「のぼりとチャレンジストリート」が開催されます！",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hcWVEczRJSzdUNkVURHh5R0FSS0NBUXZCdzRfRkVyZUNDUDBZZE1hV2FvMDU2YS1YOENHTlc4eXdnd1Z0T2FxVHZiaG9fQmx2MDVfcTdjb3ItdFZSVlBXTEJFUUhhaE5LRlBzMw?oc=5",
      "desc": "",
-     "pub": "2026-11-02",
+     "pub": "2026-11-03",
      "img": "",
      "source": "号外NET 川崎市多摩区",
      "dates": [
@@ -564,6 +593,24 @@
      ],
      "keywords": [
       "開催"
+     ]
+    },
+    {
+     "title": "【川崎市多摩区】登戸南武町の裏路地に名店が集結！11/1開催の朝市「第4回オイオイノボリトボンマルシェ」に注目",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LOEdKRkFfZzRFeENoMEpUWmpuOHpjQTJXLUJKUl9XMktreGZ3TlE2LXZiRWxsdm16ZnJiN3hNZXNaN3c3OVpVV2NCYUxkUE04SGJKVGdpc2FoUFl4OUcyV2VqLWxKQQ?oc=5",
+     "desc": "",
+     "pub": "2026-10-30",
+     "img": "",
+     "source": "号外NET 川崎市多摩区",
+     "dates": [
+      [
+       "2026-11-01",
+       "2026-11-01"
+      ]
+     ],
+     "keywords": [
+      "開催",
+      "マルシェ"
      ]
     },
     {
@@ -637,65 +684,10 @@
       "フェス",
       "開催"
      ]
-    },
-    {
-     "title": "生田緑地 お月見フェスタ｜レッツエンジョイ東京",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LRkNORUJqZmJlNTZFMGZfOEg0M1RBTkJ4Y0Vxa0YyaU83dTIydExtbDdBcERLLTdOVDBFOVZ6N0dVYW81RG9odGRpVXNZME1nZkE?oc=5",
-     "desc": "",
-     "pub": "2026-09-26",
-     "img": "",
-     "source": "レッツエンジョイ東京",
-     "dates": [],
-     "keywords": [
-      "フェス"
-     ]
-    },
-    {
-     "title": "【川崎市多摩区】9/26「カワノバ×TAMARU」が開催！グルメやSUPも楽しめる♪「登戸の渡しまつり」と同時開催です！",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ISUhLXzV1ek9XSklDQlY3ejZWbUVMaF8wLUFLLVMtdFM5dHFmaVFIX0VTSHIzMjFqOGVWUC1peUFTb1JZWkFVS1FtRVlFdVI5MnY4aEJ4QnlvNVRqZnJNa2Rtd1laUy1yNUdN?oc=5",
-     "desc": "",
-     "pub": "2026-09-25",
-     "img": "",
-     "source": "号外NET 川崎市多摩区",
-     "dates": [
-      [
-       "2026-09-26",
-       "2026-09-26"
-      ]
-     ],
-     "keywords": [
-      "まつり",
-      "開催"
-     ]
-    },
-    {
-     "title": "多摩区まち歩き謎解きイベント「タマ・ジュエルクエスト～消えた『知恵のいし』～」",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnbFdyU2F6c2RGdlhaWDB3b3dNeVpJZ1czaC1XZnpQTW9XWHYwYnA3Q0hVM0U2WjVKYTAtSG1mMFliRkZmZ2VDMXgyMjhfTnA1ekg5a1hYbEhubmhDOHdWWmtfaWE?oc=5",
-     "desc": "",
-     "pub": "2026-09-16",
-     "img": "",
-     "source": "川崎市",
-     "dates": [],
-     "keywords": [
-      "イベント"
-     ]
-    },
-    {
-     "title": "狛江の多摩川で水辺イベント 熱気球や対岸の「登戸の渡しまつり」と連携も",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14UDhZdGV0WTI1azVobGF6NUliUk1mZ3FiajEyRS1PLTlVcEJTY3BKMk9vdlIzZDN6cTQzbGZDSlREZUJrVEszYVdxNjVkN1dX?oc=5",
-     "desc": "",
-     "pub": "2026-09-15",
-     "img": "",
-     "source": "調布経済新聞",
-     "dates": [],
-     "keywords": [
-      "イベント",
-      "まつり"
-     ]
     }
    ],
-   "latest_pub": "2026-11-11",
-   "fetched": 25
+   "latest_pub": "2026-11-12",
+   "fetched": 29
   },
   {
    "id": "noborito",
@@ -726,16 +718,6 @@
     {
      "start": "2026-11-14",
      "end": "2026-11-14",
-     "title": "【川崎市多摩区】もころん登場や子ども駅長制服体験も！11/14は「登戸駅わくわくDAY」へ行こう♪",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16MUluTmpVelE4T2tmcWtvTVlTWUR4YW5tRFBGTWpYSVRfOE8yYW9oenNWTnprVENIbVhYcnBSek1DemxsVVFLZ25mTzFldFZXVjAxajZBODFDd05jbTFOazY3dzZ0S1E?oc=5",
-     "desc": "",
-     "source": "号外NET 川崎市多摩区",
-     "img": "",
-     "keywords": []
-    },
-    {
-     "start": "2026-11-14",
-     "end": "2026-11-14",
      "title": "【川崎市多摩区】生田緑地に約50店舗が集結！11/14・15に「第11回 食の祭典 in 生田緑地」が開催されます！",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tNjFoZDBLNjdMenh6MTlJbFp4bUQ0SEI1b0RUVFE0QXpwZUdNZFM5SFJyNzFybWFmOERXZEFhUVJoMEQtci05ZXpaOHYwUklGTXVEVFdMUDkyekVhcTdvaFpsOVh3dVVuM2F4RQ?oc=5",
      "desc": "",
@@ -743,6 +725,18 @@
      "img": "",
      "keywords": [
       "祭",
+      "開催"
+     ]
+    },
+    {
+     "start": "2026-11-15",
+     "end": "2026-11-15",
+     "title": "【川崎市多摩区】専修大学生企画！川崎市岡本太郎美術館にて「あなたはどの太郎と出会う？ちょこっと太郎診断！」が11/15に開催されます！",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Ld1lkYXZaVzNjcnZlMnN6MzFwWXhNXzNjSGV2WFI5N0NPX2dBekV5dUEyZTNOems0c09DaFVqajdYaWZBbWpiZmRpQjR2Y3dYb1VKOWhjM1hkX3I4MmNCWF9kcUs1ZFU?oc=5",
+     "desc": "",
+     "source": "号外NET 川崎市多摩区",
+     "img": "",
+     "keywords": [
       "開催"
      ]
     },
@@ -758,9 +752,85 @@
       "イベント",
       "開催"
      ]
+    },
+    {
+     "start": "2026-11-22",
+     "end": "2026-11-22",
+     "title": "多彩な乗り物大集合 11月22日 カルッツかわさきなど3会場で",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LclA0eWtEOWcyWGpXN3RPWHVESGJSTGE0SDRrZE4tb0hIckV2UTVTU19lc1htcU51WVF6dEVoYTRWZDdUVDEycUVYZWItWTlYRUsteG44ZFF0NVBiRlphOG1kREY?oc=5",
+     "desc": "",
+     "source": "タウンニュース",
+     "img": "",
+     "keywords": []
     }
    ],
    "recent": [
+    {
+     "title": "【川崎市多摩区】専修大学生企画！川崎市岡本太郎美術館にて「あなたはどの太郎と出会う？ちょこっと太郎診断！」が11/15に開催されます！",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Ld1lkYXZaVzNjcnZlMnN6MzFwWXhNXzNjSGV2WFI5N0NPX2dBekV5dUEyZTNOems0c09DaFVqajdYaWZBbWpiZmRpQjR2Y3dYb1VKOWhjM1hkX3I4MmNCWF9kcUs1ZFU?oc=5",
+     "desc": "",
+     "pub": "2026-11-12",
+     "img": "",
+     "source": "号外NET 川崎市多摩区",
+     "dates": [
+      [
+       "2026-11-15",
+       "2026-11-15"
+      ]
+     ],
+     "keywords": [
+      "開催"
+     ]
+    },
+    {
+     "title": "川崎市バス 自動運転、多摩区で始動 27年度から実証運行",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwQ3Rib0VEUmlnZkpfakFxWVZMbHp6NWd4TC0yTTlhNTBrbDFDbmRDYjd5NDYwWUI0djl4TTFGUm1yZVZkMUZaNHZaMXdSODlTVHI1ampOSlBOcy15dkFNenpqWVQ?oc=5",
+     "desc": "",
+     "pub": "2026-11-12",
+     "img": "",
+     "source": "タウンニュース",
+     "dates": [],
+     "keywords": []
+    },
+    {
+     "title": "神奈川県 水源地域の魅力、大集合 29日（日）、川崎アゼリアで",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzT01mQzhaX0kxTnpub19FRkZqVjRtbmxEc0djS203c1Y2WVBHbEhIcGhmQmZaa0ZEYnpQRG90Q2lFSTBHbU0tWmhFMUR1WFo1S1NwZlNCWHIxWXdLUEtMNDc0SUo?oc=5",
+     "desc": "",
+     "pub": "2026-11-12",
+     "img": "",
+     "source": "タウンニュース",
+     "dates": [],
+     "keywords": []
+    },
+    {
+     "title": "多彩な乗り物大集合 11月22日 カルッツかわさきなど3会場で",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LclA0eWtEOWcyWGpXN3RPWHVESGJSTGE0SDRrZE4tb0hIckV2UTVTU19lc1htcU51WVF6dEVoYTRWZDdUVDEycUVYZWItWTlYRUsteG44ZFF0NVBiRlphOG1kREY?oc=5",
+     "desc": "",
+     "pub": "2026-11-12",
+     "img": "",
+     "source": "タウンニュース",
+     "dates": [
+      [
+       "2026-11-22",
+       "2026-11-22"
+      ],
+      [
+       "2026-11-22",
+       "2026-11-22"
+      ]
+     ],
+     "keywords": []
+    },
+    {
+     "title": "川崎市立向丘中３年の関蓮太郎さんプロ入りを表明 史上最年少で巨人からドラフト育成５位指名を受け",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02b3lfOG1jZWY3TllSeEVKbmtoa3RvWUczQ011bGZPWmd4aDNOQnl1YUlwSTdnVnFMeV9KRDdEV0dsV1d0ZFNvanM4QXFwWkF5WEZOcGhOX3hETDJPZy1MbWNCZEw?oc=5",
+     "desc": "",
+     "pub": "2026-11-12",
+     "img": "",
+     "source": "タウンニュース",
+     "dates": [],
+     "keywords": []
+    },
     {
      "title": "【川崎市多摩区】生田緑地や菅の城跡を巡る「多摩区で城攻め！秋の御城印めぐり」開催中。11/15にイベント会場で御城印が配布されます！",
      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KSXBuUWRzOEdMRkhTczI1R2ZDWUJXY1ZMVEdDNURnd0RQVng2NVN2bzFBUS1jRkVfLUhZV3E1NGx1cjh0Q2Q0dGJlNTZ2aXhRUFctWlZLMXFPSXBDVTVTMlF1Vi1IVXozRkE?oc=5",
@@ -778,40 +848,6 @@
       "イベント",
       "開催"
      ]
-    },
-    {
-     "title": "【川崎市多摩区】もころん登場や子ども駅長制服体験も！11/14は「登戸駅わくわくDAY」へ行こう♪",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16MUluTmpVelE4T2tmcWtvTVlTWUR4YW5tRFBGTWpYSVRfOE8yYW9oenNWTnprVENIbVhYcnBSek1DemxsVVFLZ25mTzFldFZXVjAxajZBODFDd05jbTFOazY3dzZ0S1E?oc=5",
-     "desc": "",
-     "pub": "2026-11-10",
-     "img": "",
-     "source": "号外NET 川崎市多摩区",
-     "dates": [
-      [
-       "2026-11-14",
-       "2026-11-14"
-      ]
-     ],
-     "keywords": []
-    },
-    {
-     "title": "熟成キット「ねかせハイ」、コンビニエンスストアで11月6日より販売開始",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VTzQwT2piTXhaOWlQamZBdmlCZF9fWF8xX0JTQ2s0ZTFXei1zUzlDend5UWxlVWp3Nl9BbDZLbEJybm9XU1BRaFZjaWlDd0k3NjVWNVBMeUpmaVM2cmZZYTZnV3FGU0dHMlE?oc=5",
-     "desc": "",
-     "pub": "2026-11-10",
-     "img": "",
-     "source": "PR TIMES",
-     "dates": [
-      [
-       "2026-11-06",
-       "2026-11-06"
-      ],
-      [
-       "2026-11-06",
-       "2026-11-06"
-      ]
-     ],
-     "keywords": []
     },
     {
      "title": "【川崎市多摩区】生田緑地に約50店舗が集結！11/14・15に「第11回 食の祭典 in 生田緑地」が開催されます！",
@@ -835,7 +871,7 @@
      "title": "【川崎市多摩区】登戸2号線が歩行者天国に！11/8は「のぼりとチャレンジストリート」が開催されます！",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hcWVEczRJSzdUNkVURHh5R0FSS0NBUXZCdzRfRkVyZUNDUDBZZE1hV2FvMDU2YS1YOENHTlc4eXdnd1Z0T2FxVHZiaG9fQmx2MDVfcTdjb3ItdFZSVlBXTEJFUUhhaE5LRlBzMw?oc=5",
      "desc": "",
-     "pub": "2026-11-02",
+     "pub": "2026-11-03",
      "img": "",
      "source": "号外NET 川崎市多摩区",
      "dates": [
@@ -931,45 +967,10 @@
      "keywords": [
       "フェス"
      ]
-    },
-    {
-     "title": "多摩区まち歩き謎解きイベント「タマ・ジュエルクエスト～消えた『知恵のいし』～」",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnbFdyU2F6c2RGdlhaWDB3b3dNeVpJZ1czaC1XZnpQTW9XWHYwYnA3Q0hVM0U2WjVKYTAtSG1mMFliRkZmZ2VDMXgyMjhfTnA1ekg5a1hYbEhubmhDOHdWWmtfaWE?oc=5",
-     "desc": "",
-     "pub": "2026-09-16",
-     "img": "",
-     "source": "川崎市",
-     "dates": [],
-     "keywords": [
-      "イベント"
-     ]
-    },
-    {
-     "title": "狛江の多摩川で水辺イベント 熱気球や対岸の「登戸の渡しまつり」と連携も",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14UDhZdGV0WTI1azVobGF6NUliUk1mZ3FiajEyRS1PLTlVcEJTY3BKMk9vdlIzZDN6cTQzbGZDSlREZUJrVEszYVdxNjVkN1dX?oc=5",
-     "desc": "",
-     "pub": "2026-09-15",
-     "img": "",
-     "source": "調布経済新聞",
-     "dates": [],
-     "keywords": [
-      "イベント",
-      "まつり"
-     ]
-    },
-    {
-     "title": "川崎大師で恒例の玉飾り設置　新しい年が平穏な日々であるよう願いを込めて",
-     "link": "https://kawasaki.keizai.biz/headline/1113/",
-     "desc": "真言宗智山派大本山金剛山金乗院平間寺（川崎大師）大山門の注連縄（しめなわ）の中央に「玉飾り」が取り付けられ新年を迎える準備が整った。",
-     "pub": "2024-01-01",
-     "img": "https://images.keizai.biz/kawasaki_keizai/headline/1704035307.jpg",
-     "source": "川崎経済新聞",
-     "dates": [],
-     "keywords": []
     }
    ],
-   "latest_pub": "2026-11-11",
-   "fetched": 24
+   "latest_pub": "2026-11-12",
+   "fetched": 27
   },
   {
    "id": "namba",
@@ -1032,6 +1033,18 @@
      ]
     },
     {
+     "start": "2026-11-14",
+     "end": "2026-11-14",
+     "title": "『モンスターハンターNow』大阪イベントで限定グッズ販売！ キンコーズが11月14日から無料フォトプリントなども実施",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fOTd6M09uLU9maTFJYzBJRnZndWFiR2ZVYVd5cjI4ZTFoMmk3MXI4MnM4c3ZGYlVBanBmN3VSYzFiaTZpekNSUFBLY1lIcmY3UmxRNmlZNFVPQzUwdWJaZA?oc=5",
+     "desc": "",
+     "source": "AppBank",
+     "img": "",
+     "keywords": [
+      "イベント"
+     ]
+    },
+    {
      "start": "2026-11-21",
      "end": "2026-11-21",
      "title": "ものづくりや発明の楽しさ体験 「おおさか子ども発明フェス」１１月２１日開催",
@@ -1068,9 +1081,129 @@
      "keywords": [
       "オープン"
      ]
+    },
+    {
+     "start": "2026-11-28",
+     "end": "2026-11-29",
+     "title": "オーディオセッション in OSAKA、11/28-29に大阪・心斎橋にて開催。オーディオ評論家によるイベントも",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvalNRNzBKRURXUlBqMU02M1lodUtqemo1ZndHMTdHelhneU9sQ05MNEFfM2FVdnpLWjBtZDVHUkZiNVJyMzBRVnB4V25kdDdWZ2FodlA2ZHUxUld2WTZIb2Y4Z1l4bGM?oc=5",
+     "desc": "",
+     "source": "PHILE WEB",
+     "img": "",
+     "keywords": [
+      "イベント",
+      "開催"
+     ]
+    },
+    {
+     "start": "2026-12-03",
+     "end": "2026-12-03",
+     "title": "猫も犬も、かわいさ大集合！心斎橋PARCOに初登場 「ねこ休み展＆鼻ぺちゃ展」12/3(木)から4日間限定開催 写真作品や限定グッズ、特別POP UPも！",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5nZXVpaHRHMlZ6RzZOTEFldmJGV1lKMUxtS3VaZVg3SkRFX3NsdERERWZxTGloNDFwNHoyTEE0cXJJVUVjeTg3SFVUQm4wQQ?oc=5",
+     "desc": "",
+     "source": "アットプレス",
+     "img": "",
+     "keywords": [
+      "開催"
+     ]
     }
    ],
    "recent": [
+    {
+     "title": "猫も犬も、かわいさ大集合！心斎橋PARCOに初登場 「ねこ休み展＆鼻ぺちゃ展」12/3(木)から4日間限定開催 写真作品や限定グッズ、特別POP UPも！",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5nZXVpaHRHMlZ6RzZOTEFldmJGV1lKMUxtS3VaZVg3SkRFX3NsdERERWZxTGloNDFwNHoyTEE0cXJJVUVjeTg3SFVUQm4wQQ?oc=5",
+     "desc": "",
+     "pub": "2026-11-13",
+     "img": "",
+     "source": "アットプレス",
+     "dates": [
+      [
+       "2026-12-03",
+       "2026-12-03"
+      ]
+     ],
+     "keywords": [
+      "開催"
+     ]
+    },
+    {
+     "title": "心斎橋に西日本最大「カルティエ」旗艦店　日本文化採用のプライベート空間も",
+     "link": "https://namba.keizai.biz/headline/5973/",
+     "desc": "フランスの宝飾ブランド「カルティエ」が11月6日、心斎橋の商業ビル「クオーツ心斎橋」（大阪市中央区南船場3）に店舗をオープンした。",
+     "pub": "2026-11-12",
+     "img": "https://images.keizai.biz/namba_keizai/headline/1794456509.jpg",
+     "source": "なんば経済新聞",
+     "dates": [
+      [
+       "2026-11-06",
+       "2026-11-06"
+      ]
+     ],
+     "keywords": [
+      "オープン"
+     ]
+    },
+    {
+     "title": "オーディオセッション in OSAKA、11/28-29に大阪・心斎橋にて開催。オーディオ評論家によるイベントも",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvalNRNzBKRURXUlBqMU02M1lodUtqemo1ZndHMTdHelhneU9sQ05MNEFfM2FVdnpLWjBtZDVHUkZiNVJyMzBRVnB4V25kdDdWZ2FodlA2ZHUxUld2WTZIb2Y4Z1l4bGM?oc=5",
+     "desc": "",
+     "pub": "2026-11-12",
+     "img": "",
+     "source": "PHILE WEB",
+     "dates": [
+      [
+       "2026-11-28",
+       "2026-11-29"
+      ]
+     ],
+     "keywords": [
+      "イベント",
+      "開催"
+     ]
+    },
+    {
+     "title": "【動画】なんばパークスでイルミネーション 人気の「煌めく草原」や「光の滝」",
+     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1HWlhyS0N2U2gyREpJa3Iyc25DYW1FWXlXTkVIOEFxYl9lUXdXUVkwbGlTdGQwMEFER3dYWlBIOUdJT3dtZmc?oc=5",
+     "desc": "",
+     "pub": "2026-11-12",
+     "img": "",
+     "source": "osaka style",
+     "dates": [],
+     "keywords": [
+      "イルミネーション"
+     ]
+    },
+    {
+     "title": "心斎橋に西日本最大「カルティエ」旗艦店 日本文化採用のプライベート空間も",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE56SnozRzBMMUdsUVgtdVY0S1VqcFRwUmdPMkZhMEJSM3M5TUx4c1IyXzYtRHg0M0RNUmhLUXN6V0dqRUM3ZjZ2TEw5VEJwbWZR?oc=5",
+     "desc": "",
+     "pub": "2026-11-12",
+     "img": "",
+     "source": "なんば経済新聞",
+     "dates": [],
+     "keywords": []
+    },
+    {
+     "title": "『モンスターハンターNow』大阪イベントで限定グッズ販売！ キンコーズが11月14日から無料フォトプリントなども実施",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fOTd6M09uLU9maTFJYzBJRnZndWFiR2ZVYVd5cjI4ZTFoMmk3MXI4MnM4c3ZGYlVBanBmN3VSYzFiaTZpekNSUFBLY1lIcmY3UmxRNmlZNFVPQzUwdWJaZA?oc=5",
+     "desc": "",
+     "pub": "2026-11-12",
+     "img": "",
+     "source": "AppBank",
+     "dates": [
+      [
+       "2026-11-14",
+       "2026-11-14"
+      ],
+      [
+       "2026-11-14",
+       "2026-11-14"
+      ]
+     ],
+     "keywords": [
+      "イベント"
+     ]
+    },
     {
      "title": "500基の「スカイランタン」が冬の夜空に。大阪・難波宮跡公園で『クリスマスイベント』が開催されるみたい",
      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBQckF5NHlPQ0ZIX0NDX1lSYUZ6N1VpWm1xb3VJaUt2SHc0NVNCbVNDNDdhYjJyRW9VMlFEdmJIT3VtdmlDeS1DUUV6NHEzaFptOEVzNEFLd3M5QmVuOUE?oc=5",
@@ -1083,6 +1216,38 @@
       "イベント",
       "開催",
       "クリスマス"
+     ]
+    },
+    {
+     "title": "サモエドカフェmoffu、老人ホームを初訪問！大阪心斎橋店の3頭が入居者約60名と交流。",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzTVZZcU1HLTdtVndvTmdDWFNUVm1BcXRjQmlqNzRNbDgtb2pkb21oSFlSd2FOX2tROFJ2a3d6cVpFeUt2SzJmSlpvWFRIdVBlUXdpLUVYM0RWMEdRMlFMcThiOUNZMDJ5ZGc?oc=5",
+     "desc": "",
+     "pub": "2026-11-12",
+     "img": "",
+     "source": "PR TIMES",
+     "dates": [],
+     "keywords": []
+    },
+    {
+     "title": "ワイルドエリアグローバル中の大阪・難波でレイドがプレイ不可能になるかも / 念のため“ポケ活”の場所をずらしておこう【ポケモンGO】",
+     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9MT1VyTkk2MktmWlFjNV9XbUtBUG85MkpSQjZKUm53d01UNWFTSUVEYk0xTHJXOUh6aVFCbVhYRkFPOW85amtXdTB4RQ?oc=5",
+     "desc": "",
+     "pub": "2026-11-12",
+     "img": "",
+     "source": "ガジェット通信",
+     "dates": [],
+     "keywords": []
+    },
+    {
+     "title": "なんばパークスで恒例イルミネーション 人気の「煌めく草原」や「光の滝」",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1lZEZJcndBZVJ3cUpnR01aQzA2a19DQ0dfYnJMZ1p0eG9kX0hfRE5xa1d3MzhpUGluM0VaZnBPeV9sb2RUdXh5QWMxLV8xcFFhQ3BwendoVDUwNWxRYk5wQXJicjc1T3F5alE0RS1LV2NFTk9oSko2Tm93?oc=5",
+     "desc": "",
+     "pub": "2026-11-12",
+     "img": "",
+     "source": "ライブドアニュース",
+     "dates": [],
+     "keywords": [
+      "イルミネーション"
      ]
     },
     {
@@ -1154,145 +1319,10 @@
      "source": "ニコニコニュース",
      "dates": [],
      "keywords": []
-    },
-    {
-     "title": "心斎橋の中華料理店で「小籠包2倍」企画　ギネス世界記録達成を記念",
-     "link": "https://namba.keizai.biz/headline/5971/",
-     "desc": "シンガポール発中華レストラン「Paradise Dynasty（パラダイスダイナスティー） 大阪心斎橋」（大阪市中央区南船場3）が11月9日、ショーロンポーの個数を通常の2倍にして提供する「倍々小籠包（ショーロンポー）」企画を始めた。",
-     "pub": "2026-11-10",
-     "img": "https://images.keizai.biz/namba_keizai/headline/1794300755.jpg",
-     "source": "なんば経済新聞",
-     "dates": [
-      [
-       "2026-11-09",
-       "2026-11-09"
-      ]
-     ],
-     "keywords": []
-    },
-    {
-     "title": "通天閣が初参加！約100万球の光で彩る「なんば光旅」11月13日開幕",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiV2x4alB3ajFSMWwyZkZVa2djMjdEQzBEZ014SEhFV0g4UTZHVV94cEdoQTdYVVZVTC0zQVloZkhPMEstLXdYRWswbERTRGViSkE?oc=5",
-     "desc": "",
-     "pub": "2026-11-10",
-     "img": "",
-     "source": "PrettyOnline",
-     "dates": [
-      [
-       "2026-11-13",
-       "2026-11-13"
-      ],
-      [
-       "2026-11-13",
-       "2026-11-13"
-      ]
-     ],
-     "keywords": []
-    },
-    {
-     "title": "なんばウォークでスタッフ向け「謎解き防犯研修」　事件風ストーリーで学ぶ",
-     "link": "https://namba.keizai.biz/headline/5970/",
-     "desc": "大阪・難波の地下街「なんばウォーク」で11月5日から、テナントスタッフを対象にした体験型の謎解き研修「なんばウォーク防犯ミッション」が実施される。",
-     "pub": "2026-11-09",
-     "img": "https://images.keizai.biz/namba_keizai/headline/1794191834.jpg",
-     "source": "なんば経済新聞",
-     "dates": [
-      [
-       "2026-11-05",
-       "2026-11-05"
-      ]
-     ],
-     "keywords": []
-    },
-    {
-     "title": "大阪・心斎橋パルコで「12日間の祭り」、スパイスカレー・マンガ持ち込み…60以上のイベント開催",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KX3dyWF9ZZ2YzUWVQbWVWZzg0UGNxZ1JBMFZpUmtSYWFUQXV1QWNuNUNvbjc3YnJPMnh5SXZoTk8xN1ZvampDcXNYQUxEMU5Ob25KdA?oc=5",
-     "desc": "",
-     "pub": "2026-11-08",
-     "img": "",
-     "source": "Lmaga.jp",
-     "dates": [],
-     "keywords": [
-      "イベント",
-      "祭",
-      "開催"
-     ]
-    },
-    {
-     "title": "大阪高島屋に「おさるのジョージ」期間限定店　85周年記念グッズ販売も",
-     "link": "https://namba.keizai.biz/headline/5969/",
-     "desc": "期間限定ショップ「おさるのジョージ うきうきマーケット」が11月5日、高島屋大阪店（大阪市中央区難波5）7階で始まった。",
-     "pub": "2026-11-06",
-     "img": "https://images.keizai.biz/namba_keizai/headline/1793932266.jpg",
-     "source": "なんば経済新聞",
-     "dates": [
-      [
-       "2026-11-05",
-       "2026-11-05"
-      ]
-     ],
-     "keywords": []
-    },
-    {
-     "title": "心斎橋パルコに「ZO&FRIENDS」カフェ　G-DRAGONさん制作ブランド",
-     "link": "https://namba.keizai.biz/headline/5968/",
-     "desc": "「ZO&FRIENDS（ジョアンフレンズ）」の期間限定カフェが11月13日、心斎橋パルコ（大阪市中央区心斎橋筋1）6階にオープンする。",
-     "pub": "2026-11-05",
-     "img": "https://images.keizai.biz/namba_keizai/headline/1793850672.jpg",
-     "source": "なんば経済新聞",
-     "dates": [
-      [
-       "2026-11-13",
-       "2026-11-13"
-      ]
-     ],
-     "keywords": [
-      "オープン"
-     ]
-    },
-    {
-     "title": "大阪の恒例音楽フェスが、7年振りに「大阪城音楽堂」に帰ってくる…秋の野外に7組出演、個性派グルメや物販も（Lmaga.jp）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14eWRiUG96V1VEaUNYdGVOSlhsLWFJLWNlNHhSU2ZackdILU5IM0lmSWVPcnZFU0NpaGN1X2R3cThtdmtKbnRoNjNyUDRjbkpIQ2gtZ1ZuaWhGYWxibzh0ejhOcTlRVmNrcDdyV0JQdnJJTVpEanRUSEx6aDFTenc?oc=5",
-     "desc": "",
-     "pub": "2026-11-05",
-     "img": "",
-     "source": "Yahoo!ニュース",
-     "dates": [],
-     "keywords": [
-      "フェス"
-     ]
-    },
-    {
-     "title": "なんばグランド花月39周年　最前列席や子ども支配人企画、会見にきよし師匠ら",
-     "link": "https://namba.keizai.biz/headline/5967/",
-     "desc": "「なんばグランド花月（NGK）」（大阪市中央区難波千日前）で11月1日、開業39周年を記念した「おかげさまで39周年スペシャル月間 ～ありがとう。",
-     "pub": "2026-11-04",
-     "img": "https://images.keizai.biz/namba_keizai/headline/1793760640.jpg",
-     "source": "なんば経済新聞",
-     "dates": [
-      [
-       "2026-11-01",
-       "2026-11-01"
-      ]
-     ],
-     "keywords": []
-    },
-    {
-     "title": "大丸心斎橋が開業300周年に企画　御堂筋にメリーゴーラウンドなど",
-     "link": "https://namba.keizai.biz/headline/5966/",
-     "desc": "大丸心斎橋店（大阪市中央区心斎橋筋1）で現在、開業300周年のフィナーレを飾る企画「300祭」が開催されている。",
-     "pub": "2026-11-02",
-     "img": "https://images.keizai.biz/namba_keizai/headline/1793586225.jpg",
-     "source": "なんば経済新聞",
-     "dates": [],
-     "keywords": [
-      "祭",
-      "開催"
-     ]
     }
    ],
-   "latest_pub": "2026-11-12",
-   "fetched": 42
+   "latest_pub": "2026-11-13",
+   "fetched": 51
   },
   {
    "id": "maebashi",
@@ -1320,6 +1350,21 @@
     }
    ],
    "upcoming": [
+    {
+     "start": "2026-11-14",
+     "end": "2026-11-14",
+     "title": "【前橋市】小相木町にRenovia前橋ショールームが11/14にグランドオープン！特別イベント「パン祭り」も開催します。",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE85U0E3eXpYUE9TWG94V3RDbUszeC1WNTY0WE94bDh1ZUNIU25kd1J0eERSUXpLcmFTOFNvQmFYWWNtNlRmMXJ2Z09hOGdlY3llcFgyRWZlX05LMXQ2S3Rwb3RkSQ?oc=5",
+     "desc": "",
+     "source": "地域ニュースサイト号外NET",
+     "img": "",
+     "keywords": [
+      "イベント",
+      "祭",
+      "開催",
+      "オープン"
+     ]
+    },
     {
      "start": "2026-11-14",
      "end": "2026-11-14",
@@ -1364,7 +1409,7 @@
      "start": "2026-11-21",
      "end": "2026-11-21",
      "title": "11/21 カインズ 前橋青柳店で「くみまちパンマルシェ」を開催！",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiU3BZaFVDR0FWQTdRMGJNT3lWM182VGlaV0VGaHVGWm1OTzNxaVhRYkFpYklRZ2Iwd3kzbVppOS1oTFRVbFc1RVN6ankyUjFqc05HWURPMUtzaWx1Z3V2YXgxRWg1V2I1S3c?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV0dIdzlzR1dwNlVOeExnaHdvVDY0QTRCaVcydkJDaTcyOHg1Q3djTWMxQk9xOGh0bXZwR3E2ZnNBdno1dGNaYWpBYTV4eWZJd0hZckRZTjlEZFJ4cmRlWmxIX3JQOGZfV053N05QLTVjcmdjU290VmJyTHhtM0lHM3FySXJUQkc1MnJHS3FUOA?oc=5",
      "desc": "",
      "source": "前橋市",
      "img": "",
@@ -1375,6 +1420,23 @@
     }
    ],
    "recent": [
+    {
+     "title": "けやき前橋「スイーツマルシェ」過去回人気店中心に14店顔そろえる",
+     "link": "https://takasaki.keizai.biz/headline/5352/",
+     "desc": "「けやきウォーク前橋」（前橋市文京2、TEL 0570-666546）で11月12日、「第9回スイーツマルシェ」が始まった。",
+     "pub": "2026-11-13",
+     "img": "https://images.keizai.biz/takasaki_keizai/headline/1794520136.jpg",
+     "source": "高崎前橋経済新聞",
+     "dates": [
+      [
+       "2026-11-12",
+       "2026-11-12"
+      ]
+     ],
+     "keywords": [
+      "マルシェ"
+     ]
+    },
     {
      "title": "前橋「和食ファミレス」新店　「海鮮タワー丼」が話題、ランチ500円から",
      "link": "https://takasaki.keizai.biz/headline/5351/",
@@ -1390,6 +1452,42 @@
      ],
      "keywords": [
       "オープン"
+     ]
+    },
+    {
+     "title": "《イベント情報・ぱれっと》前橋・伊勢崎",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pZkdIaFlmVEIxVmVLdk9PVDNtdDhJNGtVNldIZm9lY3RJMXdkakFJTUlfYW1CbFFUcWZMWHJNdFJ3SEp6VWhTNU9xUFZuZDlYbGxnOTBMUjNyUQ?oc=5",
+     "desc": "",
+     "pub": "2026-11-12",
+     "img": "",
+     "source": "上毛新聞電子版",
+     "dates": [],
+     "keywords": [
+      "イベント"
+     ]
+    },
+    {
+     "title": "けやき前橋「スイーツマルシェ」過去回人気店中止に14店顔そろえる（みんなの経済新聞ネットワーク）",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzUUFqVTQ5N3M1ZU5rQkhFaE5xS3ZJSFFxMlhXalNzWUI2S21mWTVyUlhVVVhhY2VfV05XT09zQ2lWc25sX1RBaC14ZllqLU4tdHdKLWlYcUs5Y09RNkpJYmV5cXZ0Qzc0d1pBLTE5eEw4TmJZX3JuVE8yakNsTG8?oc=5",
+     "desc": "",
+     "pub": "2026-11-12",
+     "img": "",
+     "source": "Yahoo!ニュース",
+     "dates": [],
+     "keywords": [
+      "マルシェ"
+     ]
+    },
+    {
+     "title": "前橋「スイーツマルシェ」茶フェちゃきち",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE15MHIwUEp0akdSazBDUzBvOW1NTXlrWFVqTDhHc1VCVFBfN0ZiWEsxeklqajgtR2tDazc2RC1NOWRwaE1HSUxxekdYNkxGbFFoOUN3RWw0cw?oc=5",
+     "desc": "",
+     "pub": "2026-11-12",
+     "img": "",
+     "source": "高崎前橋経済新聞",
+     "dates": [],
+     "keywords": [
+      "マルシェ"
      ]
     },
     {
@@ -1412,18 +1510,23 @@
      ]
     },
     {
-     "title": "JA共済連群馬、親子で楽しめるイベント『JA共済サンキュー祭(フェス)2026』を開催",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBwX0tUWDFVbWxESmJ2MGhrZXJXR1JqMGVjMHFiLUZ2QUpKY1dGY1pWU3RLcEJjSFdsdVNEQlpjMGxXdnRXWV9WUXJsVG9lVDY3RUw5c1pQN2ctUHY5enEzUjJFRUtwZVpsWG16Z2t3?oc=5",
+     "title": "【前橋市】小相木町にRenovia前橋ショールームが11/14にグランドオープン！特別イベント「パン祭り」も開催します。",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE85U0E3eXpYUE9TWG94V3RDbUszeC1WNTY0WE94bDh1ZUNIU25kd1J0eERSUXpLcmFTOFNvQmFYWWNtNlRmMXJ2Z09hOGdlY3llcFgyRWZlX05LMXQ2S3Rwb3RkSQ?oc=5",
      "desc": "",
      "pub": "2026-11-11",
      "img": "",
-     "source": "au Webポータル",
-     "dates": [],
+     "source": "地域ニュースサイト号外NET",
+     "dates": [
+      [
+       "2026-11-14",
+       "2026-11-14"
+      ]
+     ],
      "keywords": [
       "イベント",
-      "フェス",
       "祭",
-      "開催"
+      "開催",
+      "オープン"
      ]
     },
     {
@@ -1440,7 +1543,7 @@
     },
     {
      "title": "11/21 カインズ 前橋青柳店で「くみまちパンマルシェ」を開催！",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiU3BZaFVDR0FWQTdRMGJNT3lWM182VGlaV0VGaHVGWm1OTzNxaVhRYkFpYklRZ2Iwd3kzbVppOS1oTFRVbFc1RVN6ankyUjFqc05HWURPMUtzaWx1Z3V2YXgxRWg1V2I1S3c?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV0dIdzlzR1dwNlVOeExnaHdvVDY0QTRCaVcydkJDaTcyOHg1Q3djTWMxQk9xOGh0bXZwR3E2ZnNBdno1dGNaYWpBYTV4eWZJd0hZckRZTjlEZFJ4cmRlWmxIX3JQOGZfV053N05QLTVjcmdjU290VmJyTHhtM0lHM3FySXJUQkc1MnJHS3FUOA?oc=5",
      "desc": "",
      "pub": "2026-11-11",
      "img": "",
@@ -1529,18 +1632,6 @@
      ]
     },
     {
-     "title": "【競輪】豪華ゲスト出演の前橋ミッドナイト「競輪居酒屋」イベントチケット販売中",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5qQVhxNjFoN2d6T3RoR2hQVVhpY05LcElsS3A1UUdEMmxFOGs5Rk9wTlRMdHB1bWhTOGhPVHY2R2dKNmJURnBvMEh3Z1UyaGwzY3hpVlZjREdpUjhXWFlFYkJFdGZsOHk0VXhpQVNQUmpzRUtFTDdpZ3A1MA?oc=5",
-     "desc": "",
-     "pub": "2026-11-09",
-     "img": "",
-     "source": "日刊スポーツ",
-     "dates": [],
-     "keywords": [
-      "イベント"
-     ]
-    },
-    {
      "title": "[イベント開催] おおたオータムフェス２０２６",
      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LUy1vMkxma2pXeHhRMWkzdUpiaGtibjhac083azJ4a2ktaW5xbHRmUzg5QjlSazNEVEZGQmVkQW0xZ0ZBT2hZenFnWkNROG95c01oZjNB?oc=5",
      "desc": "",
@@ -1553,62 +1644,10 @@
       "フェス",
       "開催"
      ]
-    },
-    {
-     "title": "150店以上が集結 オーガニックマルシェ 11月15日開催｜前橋発、新しい風 「めぶく」街 。前橋の様々な話題を取り扱う前橋新聞-mebukuです。",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIUVllSmYwWjZ0dnVMeVRHamQ0bENjNExpVjNreGxLQk9BTEkySkY5aXQ5ZHNObHlJaVZNX3R4TUVKcFFnYm8tTWpIT0FyTlBsRFI4?oc=5",
-     "desc": "",
-     "pub": "2026-11-08",
-     "img": "",
-     "source": "前橋新聞-mebuku",
-     "dates": [
-      [
-       "2026-11-15",
-       "2026-11-15"
-      ],
-      [
-       "2026-11-15",
-       "2026-11-15"
-      ]
-     ],
-     "keywords": [
-      "開催",
-      "マルシェ"
-     ]
-    },
-    {
-     "title": "《群馬のイベント情報》県図書館大会（前橋市）",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xcEgtZWdoWFZXbFR0S1FtcWNQUzNQMGVhTWhFODVNZ1QwMXBsOVJEWjNMN2d0NGlhcHRsVUxLbG9rT0F2eXZNN0lXU2U4SHZXazIzVWFWZ1lyUQ?oc=5",
-     "desc": "",
-     "pub": "2026-11-07",
-     "img": "",
-     "source": "上毛新聞電子版",
-     "dates": [],
-     "keywords": [
-      "イベント",
-      "大会"
-     ]
-    },
-    {
-     "title": "前橋「イタリアン」新店　バリ島イメージのリゾート風、食べ放題も",
-     "link": "https://takasaki.keizai.biz/headline/5347/",
-     "desc": "イタリアンレストラン「PISOLA（ピソラ）前橋三俣店」（前橋市日吉2、TEL 027-212-1404）が10月15日、オープンした。",
-     "pub": "2026-11-06",
-     "img": "https://images.keizai.biz/takasaki_keizai/headline/1793916980.jpg",
-     "source": "高崎前橋経済新聞",
-     "dates": [
-      [
-       "2026-10-15",
-       "2026-10-15"
-      ]
-     ],
-     "keywords": [
-      "オープン"
-     ]
     }
    ],
-   "latest_pub": "2026-11-12",
-   "fetched": 41
+   "latest_pub": "2026-11-13",
+   "fetched": 42
   },
   {
    "id": "ishiyama",
@@ -1661,6 +1700,19 @@
      ]
     },
     {
+     "start": "2026-12-05",
+     "end": "2026-12-05",
+     "title": "【令和8年12月5日】第13回ほくぶん子どもまつり「Mr.チョップリン ビックリ風船人間マジックショー」を開催します",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50RGt5X1B1VnRtckZSbGZGVU9pT0NncmZwVWN0TFpGSlJqVENyMHZEeTBEM2tUZkZaTzYzM2R4LWpLODZzYzlQa3FYbDFTZkphZWZmYzJZSTgyWHktaXd6VS1DTGhMSWlO?oc=5",
+     "desc": "",
+     "source": "大津市",
+     "img": "",
+     "keywords": [
+      "まつり",
+      "開催"
+     ]
+    },
+    {
      "start": "2026-12-12",
      "end": "2026-12-12",
      "title": "【令和8年12月12日】大津市科学館「星空観望会【第5回】はるか遠い天王星と海王星をさがそう」を開催します",
@@ -1671,23 +1723,21 @@
      "keywords": [
       "開催"
      ]
+    },
+    {
+     "start": "2026-12-25",
+     "end": "2026-12-25",
+     "title": "【令和8年12月25日】大津市科学館「IF（イフ）クラス 講座7 特殊ガラスの工場を見てみよう！」を開催します",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56ejc2ODZja0t0bTc0X2J5N2RJcGpZaXpiS3ZpS0wyY25hMXZNX2U0SkNLRFR5Y2FrTkJHQUFzM2plZDJzQndnTmpnZmVQSXlKM0I1amN0T1VBbll4blE?oc=5",
+     "desc": "",
+     "source": "大津市",
+     "img": "",
+     "keywords": [
+      "開催"
+     ]
     }
    ],
    "recent": [
-    {
-     "title": "客船上から打ち上げ花火＆豪華な料理が楽しめる！ びわ湖で『クリスマスクルーズ』が開催されるみたい。予約受付中",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZcFFZRGd0eWo4WjgwdFotWDJnVTVZWUllaml5ZFVxUjVMMkZaYW0wa1E3ZjBoYVM5LTFmLU4wUkh2SVFNNHdvbXRaOWRHblpiZExqTVJnTWdLc1c4VGc?oc=5",
-     "desc": "",
-     "pub": "2026-11-11",
-     "img": "",
-     "source": "神戸ジャーナル",
-     "dates": [],
-     "keywords": [
-      "花火",
-      "開催",
-      "クリスマス"
-     ]
-    },
     {
      "title": "11月28日、親子向けイベント「阪口祭」が大津市で開催される",
      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1RWHpaUnpVRmlEaVM2QnlESXJLVXVqd1djcEtrRHJFQW9sX0RRWWp5bkR0OVZzamI0bjVvd0IyVVNPX2lmdS1OTURqOC1EMUo4Y0JfXzJfZ2Zlb05N?oc=5",
@@ -1724,28 +1774,15 @@
      ]
     },
     {
-     "title": "聖夜を彩る打上花火！ びわ湖のクリスマスクルーズ便、特別運航！ ミシガン・ビアンカ「クリスマスクルーズ2026」",
-     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBXb0cycXFTSTlPVklZMVBFM003ekdRLW9LeVVTc213YkpuSHFWLXk0RUE2bTl0czVmQkxmRXNQRFQ0MUF3WjAtTFZSRWRuaHc?oc=5",
+     "title": "大津市で「ランタンフェス」初開催へ 糸をつけて琵琶湖上空に「大津の冬の風物詩に」",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1dDdtdGFLRzJoOXJpbUgxNXhQSWNSUEp6V0N3VFFxTy1HeHFqSUUtQ3NXc0lfN19XTU1UZS1OZXNnRm1YVDZYUWFRZlZNTFVyRkp0ZUtwSXI?oc=5",
      "desc": "",
-     "pub": "2026-11-09",
-     "img": "",
-     "source": "アットプレス",
-     "dates": [],
-     "keywords": [
-      "花火",
-      "クリスマス"
-     ]
-    },
-    {
-     "title": "大津市、全身でデジタルアートを体験するイベント開催中 12月まで「恥ずかしがらずに没入して」",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zNFdmUWxGWEhDbzluWjhCUWJGUE8wR2RUS0FEWlJhT1g4a0NjTERzYnF2dFlUaFZ5bmsxLWFReEdsMVlMNjE1TC01U3h4ZThBOGxqU3dqcTU?oc=5",
-     "desc": "",
-     "pub": "2026-11-08",
+     "pub": "2026-11-10",
      "img": "",
      "source": "京都新聞デジタル",
      "dates": [],
      "keywords": [
-      "イベント",
+      "フェス",
       "開催"
      ]
     },
@@ -1771,31 +1808,6 @@
      ]
     },
     {
-     "title": "琵琶湖彩る秋花火 わずか15分間の500発 夏の混雑避け地元住民3千人がゆったり満喫（産経新聞）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HOG5BaGU0YkxQLVh4QVJtdmRyM0pXQ3BIdFg1ZkRlS0ZLZkNmSno4ek1mdzlYNmI1dTdGWXB5RkNLRXp0MFllUjZsV0U3dmduaUQ2OElaYVJpOHhwcTN3aXdKTDl1RUNtelBfaXVBVXRnR3ZUWElnS1gyQld6Z28?oc=5",
-     "desc": "",
-     "pub": "2026-11-05",
-     "img": "",
-     "source": "Yahoo!ニュース",
-     "dates": [],
-     "keywords": [
-      "花火"
-     ]
-    },
-    {
-     "title": "大津で「びわ湖秋花火」500発が夜空彩る 8月の大花火大会を気軽に楽しめなくなった近隣住民向け",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pVmpFUGdlNHRJWEtvT0MtZkdTNnVMM0RFQ29Pb1h1OEItZ0pxUnlQcTRmMXJCdzRzc01TaGhiNTR4V2tFUnlmMlpwclRBQnhfcFBUNQ?oc=5",
-     "desc": "",
-     "pub": "2026-11-05",
-     "img": "",
-     "source": "中日新聞Web",
-     "dates": [],
-     "keywords": [
-      "花火",
-      "大会"
-     ]
-    },
-    {
      "title": "びわ湖大津YEG ランタンフェス2026",
      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLbk41VHJfM2xwenY2YllJVDFRaXRTWDk3d2ZSQ2ZkR1N1U0pHQ1Rzb2x3ekdSYUQwR2Fjd1FSMWwwa0ItVnZTWTVBaUdTOG53?oc=5",
      "desc": "",
@@ -1816,18 +1828,6 @@
      "source": "大津市",
      "dates": [],
      "keywords": []
-    },
-    {
-     "title": "子どもたちの夢を応援 大津市で「NEXUS BASE」がイベント",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5qQ2tjTFphd3JBZXYtTmdxYTd1Z0tJZHlXOWJMLWlIci1TWTMzLXRmRGNHa2JRVE5qVEljeC03aWRoTXFnUFJZVVhWUEZwQUxNUXdrcQ?oc=5",
-     "desc": "",
-     "pub": "2026-10-26",
-     "img": "",
-     "source": "中日新聞Web",
-     "dates": [],
-     "keywords": [
-      "イベント"
-     ]
     },
     {
      "title": "大津市で「ウナギと地酒」両方を堪能できるグルメイベント 10店がブース、10月25日まで",
@@ -1863,6 +1863,28 @@
      ]
     },
     {
+     "title": "【令和8年12月5日】第13回ほくぶん子どもまつり「Mr.チョップリン ビックリ風船人間マジックショー」を開催します",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50RGt5X1B1VnRtckZSbGZGVU9pT0NncmZwVWN0TFpGSlJqVENyMHZEeTBEM2tUZkZaTzYzM2R4LWpLODZzYzlQa3FYbDFTZkphZWZmYzJZSTgyWHktaXd6VS1DTGhMSWlO?oc=5",
+     "desc": "",
+     "pub": "2026-10-22",
+     "img": "",
+     "source": "大津市",
+     "dates": [
+      [
+       "2026-12-05",
+       "2026-12-05"
+      ],
+      [
+       "2026-12-05",
+       "2026-12-05"
+      ]
+     ],
+     "keywords": [
+      "まつり",
+      "開催"
+     ]
+    },
+    {
      "title": "びわ湖の夜空に花火を！堅田が盛り上がる1日「カタタコゾクフェスタ」で創ります！",
      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3UHRrS2pQN2pHVXVLLVlxOVNkWUNLa0lLVjhZZF9nenhzcVZTRFlZbjFpU05UbEtnMkZNZVlUczRZMGdJNXAzNUI3OVJqZTcxNG5n?oc=5",
      "desc": "",
@@ -1893,10 +1915,91 @@
       "祭",
       "マルシェ"
      ]
+    },
+    {
+     "title": "「ファミリーカーニバル2026」 10月18日（日）開催！",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QV0ZYTlZXQXhLTGUxb3A4THMtbmFKOTZleFlqXzByOG9DWTMycHpMeFUzTWJVa1dweVpEb3VBVGNta1ZaMVhzNUNrMXoyd3JUbFl0NUZQOFI5RVlwWVVkaTc4cTlpUGh6dVE?oc=5",
+     "desc": "",
+     "pub": "2026-10-08",
+     "img": "",
+     "source": "滋賀県",
+     "dates": [
+      [
+       "2026-10-18",
+       "2026-10-18"
+      ],
+      [
+       "2026-10-18",
+       "2026-10-18"
+      ]
+     ],
+     "keywords": [
+      "開催"
+     ]
+    },
+    {
+     "title": "【令和8年12月25日】大津市科学館「IF（イフ）クラス 講座7 特殊ガラスの工場を見てみよう！」を開催します",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56ejc2ODZja0t0bTc0X2J5N2RJcGpZaXpiS3ZpS0wyY25hMXZNX2U0SkNLRFR5Y2FrTkJHQUFzM2plZDJzQndnTmpnZmVQSXlKM0I1amN0T1VBbll4blE?oc=5",
+     "desc": "",
+     "pub": "2026-10-06",
+     "img": "",
+     "source": "大津市",
+     "dates": [
+      [
+       "2026-12-25",
+       "2026-12-25"
+      ],
+      [
+       "2026-12-25",
+       "2026-12-25"
+      ]
+     ],
+     "keywords": [
+      "開催"
+     ]
+    },
+    {
+     "title": "大津市科学館 スーパーわくわくサイエンス",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82ZlNoQjBFNDFwS2ttODROWl96VGprU2FSeW1QanJHUVZLaEJieENvd3pPbUFhYlVSbThvY01YVGtQVVlIeWxhdnpwNGpQZ2dLSXJHbGw2d0xlT3d4T0E?oc=5",
+     "desc": "",
+     "pub": "2026-10-01",
+     "img": "",
+     "source": "大津市",
+     "dates": [],
+     "keywords": []
+    },
+    {
+     "title": "【令和8年11月14日、11月28日】親子でわくわく運動あそびを開催します",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFcWRrZU11dFF2QkNDN0l5S2RaMTdSN0NBRmR3TGFRRUxnUzlUWUNBcWc4bjQ3WHdjRjl5UkpKajdhUWNwc2xDZVhrY0NDcjdGZnRHSGZQM3NxRExLQU9jM3dYTXZ5YmJX?oc=5",
+     "desc": "",
+     "pub": "2026-09-15",
+     "img": "",
+     "source": "大津市",
+     "dates": [
+      [
+       "2026-11-14",
+       "2026-11-14"
+      ],
+      [
+       "2026-11-28",
+       "2026-11-28"
+      ],
+      [
+       "2026-11-14",
+       "2026-11-14"
+      ],
+      [
+       "2026-11-28",
+       "2026-11-28"
+      ]
+     ],
+     "keywords": [
+      "開催"
+     ]
     }
    ],
-   "latest_pub": "2026-11-11",
-   "fetched": 19
+   "latest_pub": "2026-11-10",
+   "fetched": 15
   },
   {
    "id": "hiyoshi",
@@ -1938,18 +2041,6 @@
      ]
     },
     {
-     "start": "2026-11-14",
-     "end": "2026-11-15",
-     "title": "親子で謎解きイベント 11月14日・15日 岸根公園",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1oei1JSzVHbFl1RThWZ1BGUEQtaGZHcjNBQlBnNFlVX0xZZXFwSVozZmV4TDM2dE1rWkNyLXA3aGs5M3FYS2MzZGpsV2cxc2FqNDkxb1B6Rm1JRDhuMUlRUXRJYXM?oc=5",
-     "desc": "",
-     "source": "タウンニュース",
-     "img": "",
-     "keywords": [
-      "イベント"
-     ]
-    },
-    {
      "start": "2026-11-27",
      "end": "2026-11-29",
      "title": "大倉山記念館で「でんしゃであそぼう！」　鉄道おもちゃの巨大レイアウト登場",
@@ -1984,6 +2075,18 @@
      "keywords": []
     },
     {
+     "start": "2026-12-12",
+     "end": "2026-12-12",
+     "title": "新横浜公園の水辺で「野鳥観察会」　冬鳥などの生態学ぶ",
+     "link": "https://kohoku.keizai.biz/headline/4461/",
+     "desc": "「冬の野鳥を楽しむ 大人の観察会」が12月12日、新横浜公園（横浜市港北区小机町）で開催される。",
+     "source": "港北経済新聞",
+     "img": "https://images.keizai.biz/kohoku_keizai/headline/1794448917.jpg",
+     "keywords": [
+      "開催"
+     ]
+    },
+    {
      "start": "2026-12-18",
      "end": "2026-12-18",
      "title": "「ホテルアソシア新横浜」がマリオットに　リブランドで12月開業へ",
@@ -1997,6 +2100,23 @@
     }
    ],
    "recent": [
+    {
+     "title": "新横浜公園の水辺で「野鳥観察会」　冬鳥などの生態学ぶ",
+     "link": "https://kohoku.keizai.biz/headline/4461/",
+     "desc": "「冬の野鳥を楽しむ 大人の観察会」が12月12日、新横浜公園（横浜市港北区小机町）で開催される。",
+     "pub": "2026-11-12",
+     "img": "https://images.keizai.biz/kohoku_keizai/headline/1794448917.jpg",
+     "source": "港北経済新聞",
+     "dates": [
+      [
+       "2026-12-12",
+       "2026-12-12"
+      ]
+     ],
+     "keywords": [
+      "開催"
+     ]
+    },
     {
      "title": "菊名駅に「エトモ菊名」　東急ストアなど9店舗で12月4日開業へ",
      "link": "https://kohoku.keizai.biz/headline/4460/",
@@ -2048,23 +2168,6 @@
      ],
      "keywords": [
       "開催"
-     ]
-    },
-    {
-     "title": "親子で謎解きイベント 11月14日・15日 岸根公園",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1oei1JSzVHbFl1RThWZ1BGUEQtaGZHcjNBQlBnNFlVX0xZZXFwSVozZmV4TDM2dE1rWkNyLXA3aGs5M3FYS2MzZGpsV2cxc2FqNDkxb1B6Rm1JRDhuMUlRUXRJYXM?oc=5",
-     "desc": "",
-     "pub": "2026-11-08",
-     "img": "",
-     "source": "タウンニュース",
-     "dates": [
-      [
-       "2026-11-14",
-       "2026-11-15"
-      ]
-     ],
-     "keywords": [
-      "イベント"
      ]
     },
     {
@@ -2190,23 +2293,6 @@
      ]
     },
     {
-     "title": "横浜・鴨居のオリーブ畑で収穫体験イベント　搾りたてオリーブオイル土産も",
-     "link": "https://kohoku.keizai.biz/headline/4451/",
-     "desc": "JR横浜線鴨居駅近くのオリーブ果樹園で10月29日、オリーブ収穫体験イベントが始まる。",
-     "pub": "2026-10-28",
-     "img": "https://images.keizai.biz/kohoku_keizai/headline/1793159992.jpg",
-     "source": "港北経済新聞",
-     "dates": [
-      [
-       "2026-10-29",
-       "2026-10-29"
-      ]
-     ],
-     "keywords": [
-      "イベント"
-     ]
-    },
-    {
      "title": "新綱島駅前に新商業施設「新綱島MICCA」がオープン！注目のテナントなどを取材｜レッツエンジョイ東京",
      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lUTlfb2c4T3Y2WERoWThwazBxQS0xOVhpOWpBVXNJcEdQRV9iOGNUOUhRYmNveTRwb2MyZFZDYXBhSUtfVDlUaHZOZDFHTlU?oc=5",
      "desc": "",
@@ -2250,9 +2336,21 @@
      "keywords": [
       "フェス"
      ]
+    },
+    {
+     "title": "港北オープンガーデン",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBPV0JPN0ktNlc3UC1oUlhHbTRKMmJJMnp1SlBuakZJcWp2bGpvY2RheTFqdVhUMWFkZTBGYVBTUzdJWTMwUGVkRVlTaldVYldrakFVd0ZBeXFrY2IxMVI0aDF4Yk1mM3E0UUJtZHkwX3ZFYUpJdTQ1UmlNTmM?oc=5",
+     "desc": "",
+     "pub": "2026-10-13",
+     "img": "",
+     "source": "横浜市",
+     "dates": [],
+     "keywords": [
+      "オープン"
+     ]
     }
    ],
-   "latest_pub": "2026-11-11",
+   "latest_pub": "2026-11-12",
    "fetched": 21
   },
   {
@@ -2292,6 +2390,19 @@
      "keywords": []
     },
     {
+     "start": "2026-11-15",
+     "end": "2026-11-15",
+     "title": "国登録有形文化財「深川家住宅」がカフェに 11月15日開催「ようかん祭り」に合わせ 水田羊羹本舗では伝統の道具展示も",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94QUs4ME1ram03aEdsOWNYSDVqSW9MZ2ZRc2RaLW03emhEalNDSU8tRFJnWm9mUThQb212ZXRtTW5qcjlGYjk3dXBpZ3BKUFRCazAxUlR3?oc=5",
+     "desc": "",
+     "source": "佐賀新聞",
+     "img": "",
+     "keywords": [
+      "祭",
+      "開催"
+     ]
+    },
+    {
      "start": "2026-11-20",
      "end": "2026-11-22",
      "title": "深川江戸資料館で山本周五郎の「こんち午の日」　劇団「座☆吉祥天女」上演",
@@ -2303,6 +2414,43 @@
     }
    ],
    "recent": [
+    {
+     "title": "国登録有形文化財「深川家住宅」がカフェに 11月15日開催「ようかん祭り」に合わせ 水田羊羹本舗では伝統の道具展示も",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94QUs4ME1ram03aEdsOWNYSDVqSW9MZ2ZRc2RaLW03emhEalNDSU8tRFJnWm9mUThQb212ZXRtTW5qcjlGYjk3dXBpZ3BKUFRCazAxUlR3?oc=5",
+     "desc": "",
+     "pub": "2026-11-13",
+     "img": "",
+     "source": "佐賀新聞",
+     "dates": [
+      [
+       "2026-11-15",
+       "2026-11-15"
+      ],
+      [
+       "2026-11-15",
+       "2026-11-15"
+      ]
+     ],
+     "keywords": [
+      "祭",
+      "開催"
+     ]
+    },
+    {
+     "title": "アルバルク東京、長崎ヴェルカに逆転勝利　「成長にとって大きな一勝」",
+     "link": "https://koto.keizai.biz/headline/1026/",
+     "desc": "Bリーグ・アルバルク東京（以下、A東京）が11月11日、TOYOTA ARENA TOKYO（江東区青海1）で長崎ヴェルカ（以下、長崎）と対戦し、82-73で勝利した。",
+     "pub": "2026-11-12",
+     "img": "https://images.keizai.biz/koto_keizai/headline/1794455765.jpg",
+     "source": "江東経済新聞(旧深川経済新聞)",
+     "dates": [
+      [
+       "2026-11-11",
+       "2026-11-11"
+      ]
+     ],
+     "keywords": []
+    },
     {
      "title": "東京サンロッカーズが江東区でまちづくり議論　地域企業など17人が参加",
      "link": "https://koto.keizai.biz/headline/1025/",
@@ -2473,23 +2621,6 @@
      "keywords": []
     },
     {
-     "title": "帝国倉庫で日用品や雑貨などの「清澄一丁目の朝市」　開始1時間前から行列",
-     "link": "https://koto.keizai.biz/headline/1016/",
-     "desc": "清澄かいわいで多くの人が来場する半年に一度の「清澄一丁目の朝市」が11月1日、清州橋のたもとにある帝国倉庫（江東区清澄1）で開催された。",
-     "pub": "2026-11-02",
-     "img": "https://images.keizai.biz/koto_keizai/headline/1793616414.jpg",
-     "source": "江東経済新聞(旧深川経済新聞)",
-     "dates": [
-      [
-       "2026-11-01",
-       "2026-11-01"
-      ]
-     ],
-     "keywords": [
-      "開催"
-     ]
-    },
-    {
      "title": "【江東区・江戸川区】2026年10月31日・11月1日週末開催の無料イベント8選 フェス＆祭",
      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yT0JMZFdOZGZrX1dWZE9OUUp2Tm1fc1B2aHdlQXJoYk1OdFAtRWRzQ1gxeC1SMzBkeUV0RTlGb0NaQ0dCUEdfNUF6akl2aFZ0ekE?oc=5",
      "desc": "",
@@ -2534,22 +2665,10 @@
       "開催",
       "大会"
      ]
-    },
-    {
-     "title": "深川で国際交流イベント 小学生ら60人がALTと英語でゲーム楽しむ",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xbnlQcUZBLV9kSlZHYkh2c0NJQ2hpYVF0SlBfb2lFeTA2OUp5WHJNeWVqbklrVFpTTzlWSUhpRjBPaTdaRHQzWGhlWC1TcnRGX1V2cFNlX3dqdw?oc=5",
-     "desc": "",
-     "pub": "2026-10-24",
-     "img": "",
-     "source": "北海道新聞デジタル",
-     "dates": [],
-     "keywords": [
-      "イベント"
-     ]
     }
    ],
-   "latest_pub": "2026-11-11",
-   "fetched": 23
+   "latest_pub": "2026-11-13",
+   "fetched": 25
   },
   {
    "id": "kiyamachi",
@@ -2579,6 +2698,77 @@
    "upcoming": [],
    "recent": [
     {
+     "title": "京都府精華町で最大規模の「せいか祭り」15日開催へ 「萌えキャラ」登場、サブカルイベントも",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hZXRYN2E2a0d5RkI5WVFSWFpfTmpubXhBdGplLUVmR0pBV3I2VEwzQ3pnTFQ4anRjcmJpaHpUXzl6UnNyOEZTZGxKVl90WEp4LWJxM0M3Nm0?oc=5",
+     "desc": "",
+     "pub": "2026-11-12",
+     "img": "",
+     "source": "京都新聞デジタル",
+     "dates": [],
+     "keywords": [
+      "イベント",
+      "祭",
+      "開催"
+     ]
+    },
+    {
+     "title": "トークイベント「喫茶室かぐら in 京都産業大学」｜イベント情報",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45N1dXLVN0UVBDTDlMZWdmWDdMYWxjeWp2SXJoRHQ4X2lLVnk2YjlYRHZ0YUllVmo3M0FaVVlqWHpCN3BqYnBjVExtOXV1RVU1RHBXREp6VlVZajZWZGFXSA?oc=5",
+     "desc": "",
+     "pub": "2026-11-12",
+     "img": "",
+     "source": "京都産業大学",
+     "dates": [],
+     "keywords": [
+      "イベント"
+     ]
+    },
+    {
+     "title": "AIバブルの崩壊、京都で示された「一つのキーワード」とは",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mOTN6Z2RzQWRhY096Q1l5RGM3LTJ1Q1NuNExTNUhrekJRY1FjRmk1OTdMaHpKcWw4OGVNRGxxODJ3Z2pzNHBiNm1PTUg3cUJUMDM3TUsxMDFwby1PWG9aTGhqbmQyZXFOaE5pdUJmMHF3U3NOSXc?oc=5",
+     "desc": "",
+     "pub": "2026-11-12",
+     "img": "",
+     "source": "BRIDGE（ブリッジ）",
+     "dates": [],
+     "keywords": []
+    },
+    {
+     "title": "ＵＳＪ２５周年フードフェス開催",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QS1VZTzFOcnlmSmZzb3BTYTVTUHM1WG8tX19YOG41eDhTUXhhLUtZNGJtLUpWbktVQldTdE54SlRpWU40Yy1JbEgwZDlXdlRPakV5WFk5SFE?oc=5",
+     "desc": "",
+     "pub": "2026-11-12",
+     "img": "",
+     "source": "京都新聞デジタル",
+     "dates": [],
+     "keywords": [
+      "フェス",
+      "開催"
+     ]
+    },
+    {
+     "title": "13日の主な交通取り締まり",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBrUzVDOVBVTUN2cURwQVRrd0ppSXViYTVtMU44NjlIaFBLNEkxcHpvMm40T1NHUl9qSDJxcG5Oa1NrbmdlclRyRmFWbTZnUDd6YjYycmw0NGg?oc=5",
+     "desc": "",
+     "pub": "2026-11-12",
+     "img": "",
+     "source": "京都新聞デジタル",
+     "dates": [],
+     "keywords": []
+    },
+    {
+     "title": "【紀ノ国屋・開催】調進所紀ノ國屋京町家とエンバランスの手作り塩麹野菜ドレッシング体験",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zaUFZYjNGMzdiQXlVaS1MSUlPdWUwUnpiVXEzWEpXLW1qSGZNRVNXOGxDV0prUTBobnJ3eFU3bVZEMENFTG5vQlpOa0pYTW01QmFrTG1HYnJOMlVVUEhPaUZvT0hvZ0lj?oc=5",
+     "desc": "",
+     "pub": "2026-11-12",
+     "img": "",
+     "source": "ニコニコニュース",
+     "dates": [],
+     "keywords": [
+      "開催"
+     ]
+    },
+    {
      "title": "１１月１１日１１時１１分の主役 「チンアナゴの日」にちなみ京都水族館でイベント",
      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1YdDZEYkVIb0NKV3JwZTVHdjE4Y2NkSEJtdGs5WjBYQ1ZkbXo3bXV5WFREdlVvZ2psWkVKR181SWJSWXFkSXZyek16S04wdFVqUmtzWHh6Z01qdTlI?oc=5",
      "desc": "",
@@ -2600,29 +2790,6 @@
      ]
     },
     {
-     "title": "「チンアナゴの日」11時11分、京都水族館で一斉にごはん時間 [京都府]",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HeWREWEZyZk9SZXRWS2k5WHhIR3pTRU05aEVxd3lWMFBSUWhLdDN0U1FnSHBvRUZXZ0JRVzh2N28tX0UyZ3hQQ18wck5ub3JtUjIwQzlhMU9LZDlJTzYzY2dMVUdnbHc?oc=5",
-     "desc": "",
-     "pub": "2026-11-11",
-     "img": "",
-     "source": "朝日新聞",
-     "dates": [],
-     "keywords": []
-    },
-    {
-     "title": "「チンアナゴの日」水族館でイベント開催 京都",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XcFk5U0pUNU41dGp1Nm1vaEwxYmx5QXdaZ2FBZFJRWDZ0TWtmUzZKZ0ZKemtiUG1zQlhUazVpYUwzQk9WdVlDcEh2ZjdtVktpUERZU2RVZ1ZRYUpncjcw?oc=5",
-     "desc": "",
-     "pub": "2026-11-11",
-     "img": "",
-     "source": "NHKニュース",
-     "dates": [],
-     "keywords": [
-      "イベント",
-      "開催"
-     ]
-    },
-    {
      "title": "【12月オープン】まるでリビング？京都・ど真ん中に「大垣書店」の新業態、おばんざいなど飲食4店舗も",
      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9IMzh0NnZCMGZoczZVdnViQ1JXdUdmNl9McmM5eUZpYmRGUkJhNTBSV2tyV20zNENwbTdmM3R6dDlNM0N2NXUwMEhUcG5uTlZWWFZyZQ?oc=5",
      "desc": "",
@@ -2635,12 +2802,12 @@
      ]
     },
     {
-     "title": "京都府長岡京市で「ガチャガチャ」回すと段ボール工作当たる催し 無料",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1QbXo0bGI5WUpnbTBycU5qR1Z3dEFOd1djQVZINzlfOGczak1SUjBrUGJkU2xFMmdSN3VaN0kyN0dWakJOZTNyNGg4eU9FZGx2VUZ1Vldvdm4?oc=5",
+     "title": "「チンアナゴの日」11時11分、京都水族館で一斉にごはん時間 [京都府]",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HeWREWEZyZk9SZXRWS2k5WHhIR3pTRU05aEVxd3lWMFBSUWhLdDN0U1FnSHBvRUZXZ0JRVzh2N28tX0UyZ3hQQ18wck5ub3JtUjIwQzlhMU9LZDlJTzYzY2dMVUdnbHc?oc=5",
      "desc": "",
      "pub": "2026-11-11",
      "img": "",
-     "source": "京都新聞デジタル",
+     "source": "朝日新聞",
      "dates": [],
      "keywords": []
     },
@@ -2682,16 +2849,6 @@
      "keywords": []
     },
     {
-     "title": "京都市下京区で11日から京都の秋彩る「旧七夕会池坊全国華道展」 池坊専永家元が迫力の「大作」披露へ",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44Sm1YVDk0U3FaNHd2dGxtSDJfczV2R1MtYUMtVDkzV29jTWFpTm1RNVBpVmpsamZQS0JKNWowQ2toODItQmNDOW5JcElRQTFta2hSZHFvMS0?oc=5",
-     "desc": "",
-     "pub": "2026-11-10",
-     "img": "",
-     "source": "京都新聞デジタル",
-     "dates": [],
-     "keywords": []
-    },
-    {
      "title": "【特例認定NPO法人321プロジェクト】地域づくりの「リアル」に触れ、社会との関わり方を考える。京都市教育委員会後援の対話型ワークショップを開催",
      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OamlDT2E3VHVETUcxaTJ5Z1I5NFg4eW5uZkV5YWFPcmNZRXdXUS1JTDhIbW5GT3c4N0k2WTgzMFhoWHNlWkFXaV9YLVh3aGRaM0Jrbm13Wk1hQnlPanZMVVQyNzE3bnk2b0E?oc=5",
      "desc": "",
@@ -2701,64 +2858,6 @@
      "dates": [],
      "keywords": [
       "開催"
-     ]
-    },
-    {
-     "title": "[全16蔵27銘柄]のええ酒を飲もう！伏見の酒蔵が一堂に会する春の一大イベント 第四回「伏見酒フェス〜FUSHIMI SAKE FES.〜」2027年3月13日（土）に開催決定！！ | 株式会社リーフ・パブリケーションズのプレスリリース",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSQmlmenRlMFZ1VkVVMGlFNUxZVHVBOGduODdESVhHeWJIMWpvVUVER1NVa25fTEhoc0lIYTY2RUZYVDFfWldETm5JRktxTDIxREZJS2FxekNoeWktQkRDXzdHeG85WUpoQWc?oc=5",
-     "desc": "",
-     "pub": "2026-11-10",
-     "img": "",
-     "source": "PR TIMES",
-     "dates": [
-      [
-       "2027-03-13",
-       "2027-03-13"
-      ],
-      [
-       "2027-03-13",
-       "2027-03-13"
-      ]
-     ],
-     "keywords": [
-      "イベント",
-      "フェス",
-      "開催"
-     ]
-    },
-    {
-     "title": "ジミー大西「ホームタウン」 京都展（京都市中京区）",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0RXh4TjFLSmx6aDMzMmMyYl9tSkNBY1pfMjYzX3FXTmRRVk9PU0NHT1lsQm1oWjk3ZXRJbndUM1AtR3FULXNMTTJuUGkzUFAtRjZDaFU4R0hoci1lQ3h1emhSX0lXanVmM0lKWTZB?oc=5",
-     "desc": "",
-     "pub": "2026-11-09",
-     "img": "",
-     "source": "京都新聞デジタル",
-     "dates": [],
-     "keywords": []
-    },
-    {
-     "title": "京都・東本願寺で相川七瀬さんが「夢見る少女じゃいられない」熱唱 ブラジル交流イベントでコンサート（京都新聞）",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03VGxjMEpZTHZQbXNPRjRmTWJ5MHpGZEdBamRKQnhISXR3ZWZJNERRYW56ODRreUZ5X0tRLTlUOUtFWHN3Y3RYN1RQS0xyVDVReXo4eDROZ2ZjVmNPcWpaWUowVDQwUmUwUkRFUzZ5Znk3LXpna2Z0MmZ0emh6cEE?oc=5",
-     "desc": "",
-     "pub": "2026-11-09",
-     "img": "",
-     "source": "Yahoo!ニュース",
-     "dates": [],
-     "keywords": [
-      "イベント",
-      "コンサート"
-     ]
-    },
-    {
-     "title": "京都市の北野天満宮で百数十年続く祭りが二つに分かれる 戸惑う住民、天満宮は「改善点考える」",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TRVlDLVZqOHBTZFl5Qno3LVRjSkd1WDVKaVFUSWNTOXFwODhDZ2FnWTM4Q2N2bE9QX0Q0U3JJRWEzZ1BvZ2NDQ2RzWEhBeDVWZll3TkduM2k?oc=5",
-     "desc": "",
-     "pub": "2026-11-09",
-     "img": "",
-     "source": "京都新聞デジタル",
-     "dates": [],
-     "keywords": [
-      "祭"
      ]
     },
     {
@@ -2772,10 +2871,27 @@
      "keywords": [
       "開催"
      ]
+    },
+    {
+     "title": "京都・四条に複合型生花店「THE PUFL」　ギャラリーとカフェを併設",
+     "link": "https://karasuma.keizai.biz/headline/3812/",
+     "desc": "花を選び、アートを鑑賞し、カフェでくつろげるフラワーショップ「THE PUFL（ザパフル）」（京都市下京区御影町）が10月10日にオープンした。",
+     "pub": "2026-11-05",
+     "img": "https://images.keizai.biz/karasuma_keizai/headline/1793894738.png",
+     "source": "烏丸経済新聞",
+     "dates": [
+      [
+       "2026-10-10",
+       "2026-10-10"
+      ]
+     ],
+     "keywords": [
+      "オープン"
+     ]
     }
    ],
-   "latest_pub": "2026-11-11",
-   "fetched": 30
+   "latest_pub": "2026-11-12",
+   "fetched": 29
   },
   {
    "id": "tsukishima",
@@ -2819,18 +2935,6 @@
      "keywords": [
       "イベント",
       "開催"
-     ]
-    },
-    {
-     "start": "2026-11-15",
-     "end": "2026-11-15",
-     "title": "10周年迎え「グレードアップ」 11月15日 津久井湖で花火 相模原市中央区・相模原市緑区",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5kaFpLU0U3eGpDcFk5UXRoTE1zZngxSnJrR0NLWUY5YmRZWFZnSGs3VDFVdUZ4ZW5PSEhaWlhUM1RaQXJ2RjFqcVkzNTg5elZLTnc4dHdldFdJZWQtWUxFVDBrUU9CRDlKN0FJUkRR?oc=5",
-     "desc": "",
-     "source": "au Webポータル",
-     "img": "",
-     "keywords": [
-      "花火"
      ]
     },
     {
@@ -2916,24 +3020,16 @@
      ]
     },
     {
-     "title": "10周年迎え「グレードアップ」 11月15日 津久井湖で花火 相模原市中央区・相模原市緑区",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5kaFpLU0U3eGpDcFk5UXRoTE1zZngxSnJrR0NLWUY5YmRZWFZnSGs3VDFVdUZ4ZW5PSEhaWlhUM1RaQXJ2RjFqcVkzNTg5elZLTnc4dHdldFdJZWQtWUxFVDBrUU9CRDlKN0FJUkRR?oc=5",
+     "title": "情報ＰＩＣＫ ＵＰ＝松崎町 展示販売マフラー展／沼津市 はら逸品うまいものフェス／静岡市駿河区 主体的な学びを語る会／牧之原市 まきコスイン富士山静岡空港／御前崎市 菊花展／浜松市中央区 出世の街 浜松 家康公祭り｜静岡新聞DIGITAL 静岡県のニュース",
+     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxTFF2d0RrcTZKN3hGbURuY1U2N3VyTVNMZmRCc3FPXzdSV3hOWFhXdUo3WHRRVV9GeEd4RmsxVDE3WElsWTdQUDFURWZ6QQ?oc=5",
      "desc": "",
      "pub": "2026-11-10",
      "img": "",
-     "source": "au Webポータル",
-     "dates": [
-      [
-       "2026-11-15",
-       "2026-11-15"
-      ],
-      [
-       "2026-11-15",
-       "2026-11-15"
-      ]
-     ],
+     "source": "静岡新聞DIGITAL",
+     "dates": [],
      "keywords": [
-      "花火"
+      "フェス",
+      "祭"
      ]
     },
     {
@@ -3040,6 +3136,19 @@
      ]
     },
     {
+     "title": "【開催報告】第15回 泉区民ふれあいまつり つながる、ひろがる、泉の絆 ～祝！区制40周年～",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSGVCVnMzaDVsM0padnBNenQzZjFCUnIwaUotTUF0dlNkeF9aZDRRTGl0UDNiaEhjYnV5ZTRCNFdORTNfRGhERERlLUJKUHhicDBzdVFDYlgtdzdyRERUYVVtbi1SRURmUnZUMzNMc1NYaVJjN3pIbWg2R09vSEV6S0VrUC1ReHlLM1VEUEsyWjY2cFdQbl9z?oc=5",
+     "desc": "",
+     "pub": "2026-11-03",
+     "img": "",
+     "source": "横浜市",
+     "dates": [],
+     "keywords": [
+      "まつり",
+      "開催"
+     ]
+    },
+    {
      "title": "「Maven Ginza」来春開業へ　バーラウンジやジムを併設",
      "link": "https://ginza.keizai.biz/headline/4529/",
      "desc": "ホテル「Maven Ginza（メイヴン ギンザ）」が来年4月9日、東京・銀座に開業する。",
@@ -3053,20 +3162,10 @@
       ]
      ],
      "keywords": []
-    },
-    {
-     "title": "マレーシアフェア2026東京｜レッツエンジョイ東京",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4ZzRFVkNzSzJTbWNCUUREM2pHVmRfNERoYU13OEZKTXlMdU92bWJPdjc2c0NYakxvQWs3WFFrdW5BTW0xLUVYQ1EtRFFOWjJxbnc?oc=5",
-     "desc": "",
-     "pub": "2026-11-01",
-     "img": "",
-     "source": "レッツエンジョイ東京",
-     "dates": [],
-     "keywords": []
     }
    ],
    "latest_pub": "2026-11-11",
-   "fetched": 37
+   "fetched": 35
   },
   {
    "id": "kariya",
@@ -3094,19 +3193,6 @@
     }
    ],
    "upcoming": [
-    {
-     "start": "2026-11-12",
-     "end": "2026-11-12",
-     "title": "ヨガインストラクターの論田さん、「ビューティージャパン」日本大会出場へ",
-     "link": "https://toyota.keizai.biz/headline/1480/",
-     "desc": "社会貢献する女性を応援するコンテスト「Beauty Japan 2026中日本エリア大会」でグランプリに輝いた、豊田市在住のパーソナルヨガトレーナーの論田彩乃さんが11月12日、横浜BUNTAI（横浜市中区）で開催される「Beauty Japan2026The Final」に出場する。",
-     "source": "豊田経済新聞",
-     "img": "https://images.keizai.biz/toyota_keizai/headline/1794010632.jpg",
-     "keywords": [
-      "開催",
-      "大会"
-     ]
-    },
     {
      "start": "2026-11-15",
      "end": "2026-11-15",
@@ -3404,6 +3490,16 @@
     {
      "start": "2026-11-13",
      "end": "2026-11-13",
+     "title": "札幌・AOAOでYOASOBI公演連動企画　撮影スポットや夜間特別料金も",
+     "link": "https://sapporo.keizai.biz/headline/5273/",
+     "desc": "都市型水族館「AOAO SAPPORO」（札幌市中央区南2西3）が11月13日、音楽ユニット「YOASOBI」の北海道公演に合わせた企画を始める。",
+     "source": "札幌経済新聞",
+     "img": "https://images.keizai.biz/sapporo_keizai/headline/1794446253.jpg",
+     "keywords": []
+    },
+    {
+     "start": "2026-11-13",
+     "end": "2026-11-13",
      "title": "札幌「すみれ」監修のブタメンお目見え　北海道限定、土産商品は初",
      "link": "https://sapporo.keizai.biz/headline/5270/",
      "desc": "札幌のみそラーメン店「すみれ」が監修したミニカップ麺「ブタメン（さっぽろみそラーメン味）」の販売が11月13日、北海道内の土産販売店で始まる。",
@@ -3455,19 +3551,42 @@
       "イベント",
       "イルミネーション"
      ]
-    },
-    {
-     "start": "2026-12-23",
-     "end": "2026-12-23",
-     "title": "札幌・滝野公園が12月23日から冬期営業　夏期営業は今月10日まで",
-     "link": "https://sapporo.keizai.biz/headline/5264/",
-     "desc": "国営滝野すずらん丘陵公園（札幌市南区滝野）が12月23日、冬期営業「滝野スノーワールド」を始める。",
-     "source": "札幌経済新聞",
-     "img": "https://images.keizai.biz/sapporo_keizai/headline/1793788088.jpg",
-     "keywords": []
     }
    ],
    "recent": [
+    {
+     "title": "札幌で「北海道フービーフェスティバル」　3日間で1万人超来場",
+     "link": "https://sapporo.keizai.biz/headline/5274/",
+     "desc": "映画祭「北海道フービーフェスティバル2026」が11月6日〜8日、カナモトホール（札幌市中央区北1西1）など市内各所で開かれた。",
+     "pub": "2026-11-12",
+     "img": "https://images.keizai.biz/sapporo_keizai/headline/1794466603.jpg",
+     "source": "札幌経済新聞",
+     "dates": [
+      [
+       "2026-11-06",
+       "2026-11-08"
+      ]
+     ],
+     "keywords": [
+      "フェス",
+      "祭"
+     ]
+    },
+    {
+     "title": "札幌・AOAOでYOASOBI公演連動企画　撮影スポットや夜間特別料金も",
+     "link": "https://sapporo.keizai.biz/headline/5273/",
+     "desc": "都市型水族館「AOAO SAPPORO」（札幌市中央区南2西3）が11月13日、音楽ユニット「YOASOBI」の北海道公演に合わせた企画を始める。",
+     "pub": "2026-11-12",
+     "img": "https://images.keizai.biz/sapporo_keizai/headline/1794446253.jpg",
+     "source": "札幌経済新聞",
+     "dates": [
+      [
+       "2026-11-13",
+       "2026-11-13"
+      ]
+     ],
+     "keywords": []
+    },
     {
      "title": "北広島・ファイターズが「しゃけまるサーモン」養殖開始　2027年に出荷へ",
      "link": "https://sapporo.keizai.biz/headline/5271/",
@@ -3530,19 +3649,6 @@
      ],
      "keywords": [
       "クリスマス"
-     ]
-    },
-    {
-     "title": "札幌のスキージャンプ場で冬の花火イベント、”シャボン玉”が舞うショーや北海道グルメも",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1odW5oamFzd0g0d3p5TnBfMHdzTmhoVEVOYTFxd25hbXk1UjNlMmJuRlVYTTBDZWx2VGNIOUppWUJ0amNnWkZSOWVGc011M3hzdmxZ?oc=5",
-     "desc": "",
-     "pub": "2026-11-10",
-     "img": "",
-     "source": "ファッションプレス",
-     "dates": [],
-     "keywords": [
-      "イベント",
-      "花火"
      ]
     },
     {
@@ -3611,42 +3717,6 @@
      ]
     },
     {
-     "title": "札幌・滝野公園が12月23日から冬期営業　夏期営業は今月10日まで",
-     "link": "https://sapporo.keizai.biz/headline/5264/",
-     "desc": "国営滝野すずらん丘陵公園（札幌市南区滝野）が12月23日、冬期営業「滝野スノーワールド」を始める。",
-     "pub": "2026-11-04",
-     "img": "https://images.keizai.biz/sapporo_keizai/headline/1793788088.jpg",
-     "source": "札幌経済新聞",
-     "dates": [
-      [
-       "2026-12-23",
-       "2026-12-23"
-      ],
-      [
-       "2026-12-23",
-       "2026-12-23"
-      ]
-     ],
-     "keywords": []
-    },
-    {
-     "title": "丸井今井札幌でコーヒーマルシェ　31店が出店、バリスタと直接対話も",
-     "link": "https://sapporo.keizai.biz/headline/5263/",
-     "desc": "コーヒーの催事「Sapporo 珈琲（コーヒー）マルシェ 2026」が11月5日、丸井今井札幌本店（札幌市中央区南1西2）大通館9階催事場で始まる。",
-     "pub": "2026-11-04",
-     "img": "https://images.keizai.biz/sapporo_keizai/headline/1793787886.jpg",
-     "source": "札幌経済新聞",
-     "dates": [
-      [
-       "2026-11-05",
-       "2026-11-05"
-      ]
-     ],
-     "keywords": [
-      "マルシェ"
-     ]
-    },
-    {
      "title": "楽しく体験!おしごとごっこフェス",
      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5EdTFJc3JDUzREZ3c2M2FvOVJBVkxQUkJPNlkxSE1taUtVd3VWSlh6cVlzal91MzRBLWg4bDRwYVZnWGNwN2MzRTN4UkpyXzFTWmZSWl9mZTgtLWxEdzVRVlFNTXJBd3ZCZm1TcllMX3dUdXVIUm80bURmU3U?oc=5",
      "desc": "",
@@ -3659,8 +3729,8 @@
      ]
     }
    ],
-   "latest_pub": "2026-11-11",
-   "fetched": 12
+   "latest_pub": "2026-11-12",
+   "fetched": 11
   },
   {
    "id": "teradacho",
@@ -3697,6 +3767,19 @@
    ],
    "upcoming": [
     {
+     "start": "2026-11-14",
+     "end": "2026-11-14",
+     "title": "【大阪市天王寺区】ハンドメイド雑貨やワークショップにグルメと楽しみ満載！2026年11月14日、上本町YUFURAで「U-Link Marche」というイベントが開催されます！",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85UDg2TkptODZUQ2IzQzF6ekVsSENVTExZeWI3cDEwMmU5a1BHWm56d3BERkFTZ1p1VG9JTTctSUhkWVl3UHNJQzFNZUJ3bnhBYzF1ZjBFY2RsczBIM0hobA?oc=5",
+     "desc": "",
+     "source": "号外NET 天王寺・阿倍野",
+     "img": "",
+     "keywords": [
+      "イベント",
+      "開催"
+     ]
+    },
+    {
      "start": "2026-11-20",
      "end": "2026-11-20",
      "title": "天王寺公園てんしばで「クリスマスマーケット」　昨年は29.5万人来場",
@@ -3728,22 +3811,44 @@
      ]
     },
     {
+     "title": "【大阪市天王寺区】ハンドメイド雑貨やワークショップにグルメと楽しみ満載！2026年11月14日、上本町YUFURAで「U-Link Marche」というイベントが開催されます！",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85UDg2TkptODZUQ2IzQzF6ekVsSENVTExZeWI3cDEwMmU5a1BHWm56d3BERkFTZ1p1VG9JTTctSUhkWVl3UHNJQzFNZUJ3bnhBYzF1ZjBFY2RsczBIM0hobA?oc=5",
+     "desc": "",
+     "pub": "2026-11-11",
+     "img": "",
+     "source": "号外NET 天王寺・阿倍野",
+     "dates": [
+      [
+       "2026-11-14",
+       "2026-11-14"
+      ],
+      [
+       "2026-11-14",
+       "2026-11-14"
+      ]
+     ],
+     "keywords": [
+      "イベント",
+      "開催"
+     ]
+    },
+    {
+     "title": "【IFME×天王寺動物園】ホッキョクグマ「ホウちゃん」をモチーフにした新作スニーカーを販売！",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5fQW4xYUw2aTJZWVRlbWgtTk45cGhJRHNxcDh1RTRmUUV1UW8wM1Q3MmpSYmpDY0JQNzNSZXVGQkFEUkwtVFJrbjUtRmZyQXg2a1ZWcFFDMA?oc=5",
+     "desc": "",
+     "pub": "2026-11-11",
+     "img": "",
+     "source": "osaka style",
+     "dates": [],
+     "keywords": []
+    },
+    {
      "title": "【IFME×天王寺動物園】遊びながら“足と生きもの”を学ぶ『みらいキッズフットプロジェクト』ホッキョクグマ「ホウちゃん",
      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBEVzM5SU81alRIUkttMTRiUTZweklFUWtzcWRSRlltN1E1Q0ZXLTEyWVJfckRWV1kyY0MyV1ZDc1E4UktkamM1akZvU01SbGNuV2U5Q0F1Wnl4Z20wVXdPaFQzM204VXZ3R1VkekZrV2wyY3FzSGFwdU5QQQ?oc=5",
      "desc": "",
      "pub": "2026-11-11",
      "img": "",
      "source": "ニコニコニュース",
-     "dates": [],
-     "keywords": []
-    },
-    {
-     "title": "【IFME×天王寺動物園】ホッキョクグマ「ホウちゃん」を モチーフにした新作スニーカーを販売！ | 株式会社近鉄リテーリング",
-     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4xU0NBbjRlZEV1akpjbDQ4cEFKRVczNUhsM3lGR0dsMTF4QmZsWWFQX2cwVHN6VnYxcnh6UFU5N3B5cllaRVFMN1B3eEEzUQ?oc=5",
-     "desc": "",
-     "pub": "2026-11-11",
-     "img": "",
-     "source": "アットプレス",
      "dates": [],
      "keywords": []
     },
@@ -3757,18 +3862,6 @@
      "dates": [],
      "keywords": [
       "イベント"
-     ]
-    },
-    {
-     "title": "【大阪・天王寺】世界最高峰シェフ実演販売「パンの祭典 ブーランジェリー博覧会」",
-     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5rdVQwWS12ZEFicHFjclUyY3Z2cGZET1NoZFpWUmJCekxMUVloWDllS1A2RGhtd3Z2LThJVEpHQl9HR0xRSlRkMkF6WWZGS00?oc=5",
-     "desc": "",
-     "pub": "2026-11-08",
-     "img": "",
-     "source": "anna（アンナ）",
-     "dates": [],
-     "keywords": [
-      "祭"
      ]
     },
     {
